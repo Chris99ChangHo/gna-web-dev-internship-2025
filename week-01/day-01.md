@@ -57,8 +57,8 @@
   - Tool for running WordPress locally  
   - Safe environment to practice without affecting live sites
  
-  ---
-  # 📅 1일차 (2025-05-12)
+ ---
+# 📅 1일차 (2025-05-12)
 
 ## 🎓 오늘 한 일
 
