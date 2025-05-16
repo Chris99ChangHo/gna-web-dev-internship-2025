@@ -57,7 +57,7 @@ Began researching WooCommerce, the most popular eCommerce plugin for WordPress:
 
 ## 🎥 WooCommerce Learning Video
 
-▶️ [WooCommerce Tutorial for Beginners 2023 (Step-by-step Full Guide)](https://www.youtube.com/watch?v=O6Hnf3J4Gio&list=LL&index=1&t=1823s)  
+▶️ [WooCommerce Tutorial for Beginners 2025 (Step-by-step Full Guide)](https://www.youtube.com/watch?v=O6Hnf3J4Gio&list=LL&index=1&t=1823s)  
 - A comprehensive 2-hour video covering installation, setup, product handling, and customization  
 
 ---
@@ -82,6 +82,36 @@ Began researching WooCommerce, the most popular eCommerce plugin for WordPress:
 - **Shopify** offers an easy-to-use, all-in-one hosted solution for beginners or those preferring less technical maintenance.  
 - Depending on your project needs, skills, and budget, either platform can be the right fit.  
 - Learning WooCommerce now gives me better control over WordPress sites and future eCommerce expansions.
+
+---
+
+## 📌 What I’ll Study Next
+
+### 1. Shopify vs WooCommerce Comparison  
+📌 **Concept**: Choosing the right platform depending on business needs  
+🔧 **Focus**:  
+- Hosting model (self-hosted vs SaaS)  
+- Design flexibility & plugins  
+- Payment handling, scalability, ease of use  
+
+📖 **To Do**:  
+- Watch this video: [Shopify vs WooCommerce Comparison](https://www.youtube.com/watch?v=Mo5QzCQn6-c) 
+- Write a pros & cons table  
+- Decide which platform suits which client type  
+
+---
+
+### 2. Fixing Header Buttons in Elementor  
+📌 **Concept**: Aligning multiple buttons in header using Flexbox or Grid  
+🔧 **Troubleshooting**:  
+- Use Flex Container instead of Section  
+- Ensure items are wrapped in the same container  
+- Adjust align-self and justify-content properties  
+
+📖 **To Do**:  
+- Try replicating two-button layout using Flex Container  
+- Use Navigator to inspect alignment structure  
+- Experiment with responsive view settings
 
 ---
 
@@ -144,7 +174,7 @@ WooCommerce 연구 시작:
 
 ## 🎥 WooCommerce 학습 영상
 
-▶️ [WooCommerce Tutorial for Beginners 2023 (Step-by-step Full Guide)](https://www.youtube.com/watch?v=O6Hnf3J4Gio&list=LL&index=1&t=1823s)  
+▶️ [WooCommerce Tutorial for Beginners 2025 (Step-by-step Full Guide)](https://www.youtube.com/watch?v=O6Hnf3J4Gio&list=LL&index=1&t=1823s)  
 - 설치부터 세팅, 상품 관리, 커스터마이징까지 2시간 분량의 종합 가이드 영상  
 
 ---
@@ -169,4 +199,34 @@ WooCommerce 연구 시작:
 - **Shopify**는 초보자도 쉽게 사용할 수 있는 올인원 호스팅 솔루션  
 - 프로젝트 요구, 기술 수준, 예산에 따라 적합한 플랫폼 선택 가능  
 - WooCommerce 학습은 워드프레스 기반 e커머스 확장에 큰 도움이 됨  
+
+---
+
+## 📌 앞으로 공부할 것
+
+### 1. Shopify vs WooCommerce 비교  
+📌 **개념**: 비즈니스 유형에 따라 적합한 커머스 플랫폼 선택하기  
+🔧 **핵심 비교 항목**:  
+- 호스팅 방식 (자체 호스팅 vs SaaS)  
+- 디자인 자유도 및 확장성  
+- 결제 시스템, 확장성, 사용 난이도  
+
+📖 **할 일**:  
+- 영상 시청: [Shopify vs WooCommerce 비교 영상](https://www.youtube.com/watch?v=Mo5QzCQn6-c) 
+- 장단점 비교 표 정리  
+- 각각 어떤 비즈니스에 적합한지 메모
+
+---
+
+### 2. Elementor 헤더 버튼 정렬 문제 해결  
+📌 **개념**: Flexbox 또는 Grid를 활용한 다중 버튼 우측 정렬  
+🔧 **트러블슈팅 포인트**:  
+- Section 대신 Flex Container 사용 시 정렬 유리  
+- 두 버튼이 동일한 컨테이너 안에 있어야 함  
+- `align-self`, `justify-content` 속성 조절로 해결 가능  
+
+📖 **할 일**:  
+- Flex Container로 버튼 두 개 정렬 연습  
+- Navigator로 계층 구조 확인  
+- 반응형 뷰에서 버튼 정렬 유지되는지 테스트
 
