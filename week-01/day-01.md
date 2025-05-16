@@ -1,4 +1,4 @@
-# 📅 Day 01 (2025-05-12)
+# 📅 Day 01 (2025-05-12, Mon)
 
 ## 🎓 What I Did Today
 
@@ -58,7 +58,7 @@
   - Safe environment to practice without affecting live sites
  
  ---
-# 📅 1일차 (2025-05-12)
+# 📅 1일차 (2025-05-12, 월)
 
 ## 🎓 오늘 한 일
 
