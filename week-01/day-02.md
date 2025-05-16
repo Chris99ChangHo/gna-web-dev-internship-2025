@@ -2,6 +2,7 @@
 
 ## 🎓 What I Did Today
 
+**📌 Started with morning dev meeting, focused on web structure and plugin research**  
 **📌 Recreated client website layout using Elementor**  
 **📌 Practiced responsive design on desktop, tablet, and mobile**  
 **📌 Used Contact Form 7 and Gift Up! plugins**  
@@ -51,6 +52,7 @@
 
 ## 🎓 오늘 한 일
 
+**📌 오전 개발 미팅 후 웹 구조 및 플러그인 이해 중심의 업무 진행**
 **📌 Elementor를 이용한 클라이언트 사이트 레이아웃 재현**  
 **📌 데스크톱, 태블릿, 모바일 반응형 디자인 연습**  
 **📌 Contact Form 7 및 Gift Up! 플러그인 사용**  
