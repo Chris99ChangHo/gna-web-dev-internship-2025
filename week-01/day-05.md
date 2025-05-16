@@ -1,6 +1,6 @@
 # 📅 Day 05 (2025-05-16, Fri)
 
-## 🎓 Tasks of the Day
+## 🎓 What I Did Today
 
 **📌 9 AM – Attended daily development meeting**  
 **📌 As my first actual task, I migrated an old version of a real client website using Elementor**  
