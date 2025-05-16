@@ -2,6 +2,7 @@
 
 ## 🎓 What I Did Today
 
+**📌 Attended first daily development meeting at 9 AM** 
 **📌 Onboarding**  
 **📌 Basics of WordPress/Elementor**  
 **📌 Local Environment Setup**
@@ -62,6 +63,7 @@
 
 ## 🎓 오늘 한 일
 
+**📌 오전 9시에 첫 개발 미팅 참석 후 업무 시작**  
 **📌 온보딩**  
 **📌 워드프레스/엘리멘터 기초**  
 **📌 로컬 환경 구축**
