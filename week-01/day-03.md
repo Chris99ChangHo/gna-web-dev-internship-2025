@@ -15,7 +15,7 @@
   - Instagram Feed (requires Instagram Graph API or plugin)
 - Focused on precise layout reproduction using Pro widgets
 - Practiced layout tweaks:
-  - Removed unwanted space between header/footer and content
+  - Removed unwanted space between header/footer and content (margin, padding)
   - Created sitemap-style footer using Icon List (icon hidden)
   - Disabled default page titles using Page Settings
 
@@ -73,8 +73,8 @@
   - Instagram 피드 → Instagram API 또는 플러그인 필요
 - Pro 버전 위젯과 기능을 최대한 활용하여 섬세한 레이아웃 구현 연습
 - 세부적으로 다룬 항목:
-  - 헤더/푸터 여백 제거
-  - 아이콘 없는 사이트맵 스타일 푸터 구성
+  - 헤더/푸터 여백 제거 (마진, 패딩)
+  - 아이콘 없는 사이트맵 스타일 푸터 구성 (아이콘 리스트)
   - 기본 페이지 제목 숨기기 (페이지 설정 → Hide Title)
 
 ---
