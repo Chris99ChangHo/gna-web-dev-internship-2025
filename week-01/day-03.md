@@ -2,6 +2,7 @@
 
 ## 🎓 What I Did Today
 
+**📌 Joined morning dev meeting, then practiced Elementor**  
 **📌 Got dev server access (Day 3 milestone)**  
 **📌 Recreated client website layout using Elementor Pro**  
 **📌 Skipped social feed sections that require API/plugin setup**  
@@ -60,6 +61,7 @@
 
 ## 🎓 오늘 한 일
 
+**📌 오전 개발 미팅 후 Elementor 실습 진행** 
 **📌 개발서버 접속 계정 발급받음 (3일만에 달성한 이정표)**  
 **📌 Elementor Pro로 실제 클라이언트 사이트 레이아웃 재현 실습**  
 **📌 API/플러그인 연동 필요한 섹션은 제외하고 레이아웃만 구현**  
