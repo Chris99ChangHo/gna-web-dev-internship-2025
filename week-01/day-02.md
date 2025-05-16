@@ -1,4 +1,4 @@
-# 📅 Day 02 (2025-05-13)
+# 📅 Day 02 (2025-05-13, Tue)
 
 ## 🎓 What I Did Today
 
@@ -29,26 +29,7 @@
   - Checked load speed using Chrome Incognito mode for objective testing
 
 - Monitored site speed of [airhomes.com.au](https://airhomes.com.au):  
-  - Load time ≤ 5 seconds = *normal*, around 10 seconds = *slow*  
-  - Shared report in team chat, e.g.:  
-    - *airhomes speed test – normal*  
-    - *airhomes speed test – slow*
-
-- Started second practice site: [tarmtarathaimassage.com.au](https://tarmtarathaimassage.com.au)  
-  - Planned to implement contact section using **Contact Form 7**
-
-## 🧠 Key Concepts Learned
-
-- Differences between free and Pro Elementor features  
-- Creative workarounds using free widgets (e.g. Image Carousel)  
-- Simulating parallax effects using CSS (`background-attachment: fixed`)  
-- Anchor links (CSS ID) for smooth in-page navigation  
-- Using WordPress plugins: Contact Form 7, Gift Up!  
-- Daily load time monitoring and how plugin count and structure impact performance
-
----
-
-# 📅 2일차 (2025-05-13)
+  - Load time ≤ 5 seconds = *normal*, aro화)
 
 ## 🎓 오늘 한 일
 
