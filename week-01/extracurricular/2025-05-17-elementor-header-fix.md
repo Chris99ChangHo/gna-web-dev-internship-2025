@@ -1,3 +1,76 @@
+# ✅ Process of Resolving Header Button Alignment Issue
+
+## 🔍 Problem Situation
+
+Tried to configure the header section in Elementor as follows:
+
+- **Entire header section: Full Width**
+- Inner elements:  
+  - Left: Logo icon  
+  - Center: Menu list  
+  - Right: 2 buttons (📞 Call, 📅 REQUEST A CALLBACK)
+
+**Issues that occurred:**
+
+- **Size mismatch** between the two buttons  
+- **Unable to remove the space** between the buttons  
+- When forcibly adjusting the button layout  
+  → **Overflows outside the screen**, or the **design breaks**
+
+### ❗ Problem Screenshots
+---
+![problem1](https://github.com/user-attachments/assets/dce2cf82-c01b-4a2b-a430-5d62369d0a0d)  
+![problem2](https://github.com/user-attachments/assets/31f0c530-d5e1-4840-bc56-978de000c789)
+
+---
+
+## 📌 Cause Analysis
+
+- Due to internal padding/margin, min-width, and other properties of the button widgets,  
+  **precise size control is difficult**
+- When the header is Full Width and the widths and alignment of inner elements are not finely tuned,  
+  → The button area can **overflow** or the **alignment can break**
+
+## 🛠 Solution
+
+### ✅ Core Idea
+
+- **Remove the buttons themselves from the alignment target**  
+- Instead, align **two same-sized containers** horizontally that wrap the buttons  
+- Apply **background color** to each container  
+- Place the **Elementor button widgets inside with transparency**  
+  → Visually appears as fully styled buttons
+
+## 🎯 Result
+
+- Able to fully control the structure that looks like buttons  
+- Since the **containers serve as the layout base**, controlling alignment/size/background is easy  
+- The button widgets are made transparent to provide **only the clickable area functionality**  
+- Successfully aligned the right button group naturally even in a Full Width header
+
+### ✅ Post-fix Screen
+---
+![fixed](https://github.com/user-attachments/assets/b88c9fa0-bfa1-4ed4-b5f0-34798e758324)
+
+---
+
+## 💡 Lessons Learned
+
+- It is limited to solve complex alignment issues using only button widgets  
+- Conversely, if the **layout is container-based**,  
+  and buttons are structured to **only handle actions**,  
+  → Both design quality and maintainability can be secured  
+- Understanding Elementor’s structural limitations and  
+  **the strategy of separating visual elements from functional elements is very important**
+
+## 🗂 Related Keywords
+
+`Elementor`, `Header Layout`, `Full Width`, `Button Alignment`,  
+`Flex Container`, `Transparent Button`, `Horizontal Alignment`, `UI Structure Optimization`
+
+
+---
+
 # ✅ 헤더 버튼 정렬 문제 해결 과정
 
 ## 🔍 문제 상황
