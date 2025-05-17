@@ -2,24 +2,24 @@
 
 ## 🎓 What I Did Today
 
-- Finished recreating the layout of [kpainting.com.au](https://kpainting.com.au) using Elementor Pro  
-- Polished margins and paddings for a cleaner layout  
-- Struggled with the header button section – still not working as intended  
-- Started research on WooCommerce for future use  
+**📌 9 AM – Attended daily development meeting** 
+**📌 Finished recreating the layout with using Elementor Pro**
+**📌 Polished margins and paddings for a cleaner layout**
+**📌 Struggled with the header button section – still not working as intended**
+**📌 Started research on WooCommerce for future use**
 
-Completed layout recreation for kpainting.com.au using Elementor Pro:
-
+* Completed layout recreation for [kpainting.com.au](https://kpainting.com.au) using Elementor Pro:
 - Ensured section spacing (margins/paddings) is consistent  
 - Implemented full-width hero section and service blocks  
 - Final layout looks much cleaner after focusing on spacing and alignment  
 - Thank you for the tip on margin/padding – made a noticeable difference  
 
-Ongoing issue:  
-- Header buttons are not aligning properly to the right side
+**Ongoing issue:**  
+- Header buttons are not aligning properly to the right side  
 - Tried adjusting button styles and positioning in Header Template but no success  
 - Will ask for help once mentor is available  
 
-Began researching WooCommerce, the most popular eCommerce plugin for WordPress:  
+**Began researching WooCommerce, the most popular eCommerce plugin for WordPress:**  
 - Installed locally and explored key features:  
   - Product listing and single product pages  
   - Cart and checkout pages  
@@ -115,34 +115,34 @@ Began researching WooCommerce, the most popular eCommerce plugin for WordPress:
 
 ---
 
-# 📅 4일차 (2025-05-15, 목목)
+# 📅 4일차 (2025-05-15, 목)
 
 ## 🎓 오늘 한 일
 
-- Elementor Pro를 사용해 [kpainting.com.au](https://kpainting.com.au) 사이트 레이아웃 재현 완료  
-- 마진과 패딩을 다듬어 더 깔끔한 레이아웃 완성  
-- 헤더 버튼 섹션에서 여전히 위치 및 스타일 문제 발생  
-- 향후 활용을 위해 WooCommerce 연구 시작  
+- 📌 오전 9시 – 데일리 개발 미팅 참석  
+- 📌 [kpainting.com.au](https://kpainting.com.au) 레이아웃을 Elementor Pro로 재구성 완료  
+- 📌 여백(margin/padding)을 조정하여 더 깔끔한 레이아웃 구현  
+- 📌 헤더 버튼 섹션 정렬 문제로 고생 – 아직 완벽하게 해결되지 않음  
+- 📌 향후를 대비해 WooCommerce 학습 시작  
 
-kpainting.com.au 레이아웃 재현 주요 내용:  
+**Elementor Pro로 kpainting.com.au 레이아웃 재현 작업 완료:**  
+- 섹션 간 여백(margin/padding) 일관성 확보  
+- 전체 너비 히어로 섹션 및 서비스 블록 구현  
+- 정렬 및 간격을 다듬은 후 전체 레이아웃이 훨씬 깔끔해짐  
+- margin/padding 팁 정말 유용했음 – 눈에 띄는 개선  
 
-- 섹션 간 간격(마진/패딩) 일관성 확보  
-- 풀 너비 히어로 섹션과 서비스 블록 구현  
-- 간격과 정렬에 집중한 결과 훨씬 깔끔해진 최종 레이아웃  
-- 마진/패딩 팁 덕분에 큰 차이 체감  
-
-진행 중 문제:  
-- 헤더 버튼이 우측 정렬되지 않고 위치가 맞지 않는 문제 발생    
-- 헤더 템플릿에서 버튼 스타일 및 위치 조정 시도했으나 해결 못 함  
+**진행 중인 문제:**  
+- 헤더 버튼이 오른쪽으로 제대로 정렬되지 않음  
+- 헤더 템플릿에서 버튼 스타일과 위치를 조정했지만 해결되지 않음  
 - 멘토가 가능할 때 도움 요청 예정  
 
-WooCommerce 연구 시작:  
-- 로컬에 설치 후 주요 기능 탐색  
-  - 상품 목록 및 단일 상품 페이지  
+**WooCommerce 조사 시작:**  
+- 로컬에 설치하고 주요 기능 테스트:  
+  - 상품 목록 및 상세 페이지  
   - 장바구니 및 결제 페이지  
   - 결제 게이트웨이 연동 (PayPal, Stripe 등)  
-  - Elementor에서 WooCommerce Blocks 사용  
-- 더미 상품 추가 및 상품 카테고리 설정 테스트  
+  - Elementor에서 WooCommerce 블록 사용  
+- 더미 상품 추가 및 상품 카테고리 구성 테스트  
 
 ---
 
