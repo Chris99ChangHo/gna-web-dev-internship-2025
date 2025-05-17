@@ -119,30 +119,30 @@ Started rebuilding the layout using **Elementor Pro**:
 
 ## 🎓 오늘 한 일
 
-- 📌 오전 9시 – 데일리 개발 미팅 참석  
-- 📌 [kpainting.com.au](https://kpainting.com.au) 레이아웃을 Elementor Pro로 재구성 완료  
-- 📌 여백(margin/padding)을 조정하여 더 깔끔한 레이아웃 구현  
-- 📌 헤더 버튼 섹션 정렬 문제로 고생 – 아직 완벽하게 해결되지 않음  
-- 📌 향후를 대비해 WooCommerce 학습 시작  
+**📌 오전 9시 – 데일리 개발 미팅 참석**  
+**📌 Elementor Pro를 사용해 [kpainting.com.au](https://kpainting.com.au) 레이아웃 재구성 완료**  
+**📌 여백(margin/padding) 정리를 통해 더 깔끔한 레이아웃 완성**  
+**📌 헤더 버튼 섹션 문제 해결 실패 – 아직 원하는 대로 정렬되지 않음**  
+**📌 추후를 위해 WooCommerce 관련 리서치 시작**
 
-**Elementor Pro로 kpainting.com.au 레이아웃 재현 작업 완료:**  
-- 섹션 간 여백(margin/padding) 일관성 확보  
-- 전체 너비 히어로 섹션 및 서비스 블록 구현  
-- 정렬 및 간격을 다듬은 후 전체 레이아웃이 훨씬 깔끔해짐  
-- margin/padding 팁 정말 유용했음 – 눈에 띄는 개선  
+**Elementor Pro**로 레이아웃 재구성 작업 진행:  
+- 섹션 간 여백(margin/padding) 일관성 유지  
+- 전체 폭의 히어로 섹션 및 서비스 블록 구현  
+- 여백 및 정렬에 집중한 결과, 최종 레이아웃이 훨씬 깔끔해짐  
+- margin/padding 관련 팁 덕분에 확실히 개선됨  
 
-**진행 중인 문제:**  
+**진행 중인 이슈:**  
 - 헤더 버튼이 오른쪽으로 제대로 정렬되지 않음  
-- 헤더 템플릿에서 버튼 스타일과 위치를 조정했지만 해결되지 않음  
-- 멘토가 가능할 때 도움 요청 예정  
+- Header 템플릿에서 버튼 스타일과 위치를 조정해봤지만 해결되지 않음  
+- 멘토에게 도움 요청 예정  
 
-**WooCommerce 조사 시작:**  
-- 로컬에 설치하고 주요 기능 테스트:  
-  - 상품 목록 및 상세 페이지  
+**WooCommerce**(워드프레스 대표 전자상거래 플러그인) 리서치 시작:  
+- 로컬에 설치 후 주요 기능 탐색:  
+  - 상품 리스트 및 단일 상품 페이지  
   - 장바구니 및 결제 페이지  
   - 결제 게이트웨이 연동 (PayPal, Stripe 등)  
   - Elementor에서 WooCommerce 블록 사용  
-- 더미 상품 추가 및 상품 카테고리 구성 테스트  
+- 더미 상품 추가 및 상품 카테고리 설정 테스트 완료
 
 ---
 
