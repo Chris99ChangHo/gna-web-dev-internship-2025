@@ -20,16 +20,12 @@
   - Created sitemap-style footer using Icon List (icon hidden)
   - Disabled default page titles using Page Settings
 
----
-
 ## 🧠 Key Concepts Learned
 
 - **Elementor Pro** allows fine control over layout spacing and widget styling  
 - Social media and review feeds typically require **external API integration**  
 - Layout replication ≠ real-world functionality – data connectivity matters
 - Learned to manage hidden default elements (e.g., page title, unwanted spacing)
-
----
 
 ## 📌 What I’ll Study Next
 
@@ -42,8 +38,6 @@
 📖 **To Do**:
 - Learn how to generate a Google API Key
 - Explore how plugin vs. custom API method differs
-
----
 
 ### 2. Instagram Feed Embedding  
 📌 **Concept**: Embedded Instagram feeds provide live social proof and content freshness  
@@ -79,16 +73,12 @@
   - 아이콘 없는 사이트맵 스타일 푸터 구성 (아이콘 리스트)
   - 기본 페이지 제목 숨기기 (페이지 설정 → Hide Title)
 
----
-
 ## 🧠 배운 핵심 개념
 
 - **Elementor Pro**는 간격, 스타일, 구조 제어가 훨씬 세밀함  
 - 실무 웹사이트에서 자주 보이는 리뷰/피드 섹션은 **외부 API 또는 플러그인** 연동이 필요  
 - 단순한 레이아웃 재현으로는 부족하며, **실제 데이터를 불러오는 구조 이해**가 필수  
 - 기본적으로 자동 생성되는 요소들 (페이지 제목, 여백 등)을 숨기는 방법 익힘
-
----
 
 ## 📌 앞으로 공부할 것
 
@@ -101,8 +91,6 @@
 📖 **학습 항목**:
 - Google API 키 발급 및 사용법
 - 플러그인 방식 vs 직접 API 호출 방식의 차이점 이해
-
----
 
 ### 2. Instagram 피드 삽입  
 📌 **개념**: 실시간 피드 노출은 SNS 활동 연동 및 브랜드 생동감 확보  
