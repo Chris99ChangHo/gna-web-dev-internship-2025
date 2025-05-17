@@ -13,8 +13,6 @@
 - Got detailed UI/UX feedback from senior designer  
 - Applied layout improvements and worked on mobile responsiveness until end of day
 
----
-
 ## 🧠 Designer Feedback Summary
 
 ### ✅ For Desktop
@@ -32,16 +30,12 @@
 - **Avoid using Elementor Spacer widgets**
   - Reason: They may break the desktop layout during mobile optimization
 
----
-
 ## 📝 Notes & Takeaways
 
 - First real client Elementor migration taught importance of layout planning and widget choice  
 - Theme switching can break layout → Always keep backups and test theme compatibility  
 - Mobile optimization requires careful structure to avoid breaking PC layout  
 - Flexbox Containers in Elementor help with responsive design and clean alignment
-
----
 
 ## 🔁 Reminder – WooCommerce vs Shopify
 
@@ -77,8 +71,6 @@
 - 디자이너 선임과 **디자인 구조, 마진/패딩 설정, 반응형 기준**에 대해 피드백 미팅  
 - 피드백 기반으로 세부 조정 및 모바일 레이아웃 작업 중 퇴근
 
----
-
 ## 🧠 디자이너 피드백 요약 (정리 자료)
 
 ### ✅ PC 기준  
@@ -96,16 +88,12 @@
 - Elementor의 Spacer 위젯은 가급적 **사용하지 않음**  
   - 이유: Spacer는 모바일 최적화 과정에서 **PC 레이아웃까지 깨뜨릴 수 있음**
 
----
-
 ## 📝 기타 배운 점 및 느낀 점
 
 - 실 클라이언트 페이지 작업은 구조 이해와 위젯 선택이 중요  
 - 기존 테마와 새 테마 간의 차이로 레이아웃 붕괴가 발생할 수 있으므로, **백업과 테마 호환성 파악이 필수**  
 - 모바일 최적화 시, 레이아웃 구조가 깨지지 않도록 구조적 설계가 매우 중요  
 - Elementor에서는 **Flexbox Container** 구조를 더 자주 쓰는 이유가 있음 (정렬 및 반응형 대응에 유리)
-
----
 
 ## 🔁 지난 학습 리마인더 – WooCommerce vs. Shopify  
 
