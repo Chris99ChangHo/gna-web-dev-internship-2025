@@ -27,8 +27,6 @@ Started rebuilding the layout using **Elementor Pro**:
   - WooCommerce Blocks for product display in Elementor  
 - Tested adding dummy products and configuring product categories
 
----
-
 ## 🧠 Key Concepts Learned
 
 - How consistent margin and padding improve layout readability  
@@ -37,8 +35,6 @@ Started rebuilding the layout using **Elementor Pro**:
 - Basic WooCommerce features: products, categories, checkout, payment  
 - Elementor integration with WooCommerce (via Pro widgets or shortcode blocks)  
 - The importance of modular design for future expandability (e.g., eCommerce features)  
-
----
 
 ## 📚 Concepts & Resources Studied
 
@@ -53,14 +49,10 @@ Started rebuilding the layout using **Elementor Pro**:
 - Header Template’s global settings may override custom styles  
 - Tip: Try using Navigator to isolate the button element and test fixed positioning  
 
----
-
 ## 🎥 WooCommerce Learning Video
 
 ▶️ [WooCommerce Tutorial for Beginners 2025 (Step-by-step Full Guide)](https://www.youtube.com/watch?v=O6Hnf3J4Gio&list=LL&index=1&t=1823s)  
 - A comprehensive 2-hour video covering installation, setup, product handling, and customization  
-
----
 
 ## 🔍 WooCommerce vs Shopify: Comparison
 
@@ -74,16 +66,12 @@ Started rebuilding the layout using **Elementor Pro**:
 | Scalability        | Scales well but requires management    | Scales easily with less admin burden  |
 | Best For           | Users with WordPress experience and need for control | Quick setup and ease for small to large stores |
 
----
-
 ## 📝 Summary
 
 - **WooCommerce** is ideal for WordPress users wanting deep control, modular customization, and flexibility with hosting and design.  
 - **Shopify** offers an easy-to-use, all-in-one hosted solution for beginners or those preferring less technical maintenance.  
 - Depending on your project needs, skills, and budget, either platform can be the right fit.  
 - Learning WooCommerce now gives me better control over WordPress sites and future eCommerce expansions.
-
----
 
 ## 📌 What I’ll Study Next
 
@@ -98,8 +86,6 @@ Started rebuilding the layout using **Elementor Pro**:
 - Watch this video: [Shopify vs WooCommerce Comparison](https://www.youtube.com/watch?v=Mo5QzCQn6-c) 
 - Write a pros & cons table  
 - Decide which platform suits which client type  
-
----
 
 ### 2. Fixing Header Buttons in Elementor  
 📌 **Concept**: Aligning multiple buttons in header using Flexbox or Grid  
@@ -144,8 +130,6 @@ Started rebuilding the layout using **Elementor Pro**:
   - Elementor에서 WooCommerce 블록 사용  
 - 더미 상품 추가 및 상품 카테고리 설정 테스트 완료
 
----
-
 ## 🧠 오늘 배운 핵심 개념
 
 - 마진과 패딩을 일관되게 관리하면 레이아웃 가독성이 향상됨  
@@ -154,8 +138,6 @@ Started rebuilding the layout using **Elementor Pro**:
 - WooCommerce 기본 기능: 상품, 카테고리, 결제, 결제수단  
 - Elementor와 WooCommerce 연동 방법 (Pro 위젯, 숏코드 블록)  
 - 모듈화 설계의 중요성 (향후 eCommerce 기능 확장 대비)  
-
----
 
 ## 📚 공부한 개념 및 자료
 
@@ -170,14 +152,10 @@ Started rebuilding the layout using **Elementor Pro**:
 - 헤더 템플릿 글로벌 설정이 커스텀 스타일 덮어씀  
 - 팁: Navigator 기능으로 버튼 요소 분리 후 고정 위치 테스트  
 
----
-
 ## 🎥 WooCommerce 학습 영상
 
 ▶️ [WooCommerce Tutorial for Beginners 2025 (Step-by-step Full Guide)](https://www.youtube.com/watch?v=O6Hnf3J4Gio&list=LL&index=1&t=1823s)  
 - 설치부터 세팅, 상품 관리, 커스터마이징까지 2시간 분량의 종합 가이드 영상  
-
----
 
 ## 🔍 WooCommerce와 Shopify 비교
 
@@ -191,16 +169,12 @@ Started rebuilding the layout using **Elementor Pro**:
 | 확장성            | 관리 필요하지만 확장성 우수          | 관리 부담 적고 확장성 좋음          |
 | 적합 대상         | 워드프레스 경험자 및 세밀한 제어 필요자 | 빠른 구축과 쉬운 관리 원하는 사용자 |
 
----
-
 ## 📝 정리
 
 - **WooCommerce**는 워드프레스 사용자에게 자유로운 제어와 확장성, 모듈식 커스터마이징을 제공  
 - **Shopify**는 초보자도 쉽게 사용할 수 있는 올인원 호스팅 솔루션  
 - 프로젝트 요구, 기술 수준, 예산에 따라 적합한 플랫폼 선택 가능  
 - WooCommerce 학습은 워드프레스 기반 e커머스 확장에 큰 도움이 됨  
-
----
 
 ## 📌 앞으로 공부할 것
 
@@ -215,8 +189,6 @@ Started rebuilding the layout using **Elementor Pro**:
 - 영상 시청: [Shopify vs WooCommerce 비교 영상](https://www.youtube.com/watch?v=Mo5QzCQn6-c) 
 - 장단점 비교 표 정리  
 - 각각 어떤 비즈니스에 적합한지 메모
-
----
 
 ### 2. Elementor 헤더 버튼 정렬 문제 해결  
 📌 **개념**: Flexbox 또는 Grid를 활용한 다중 버튼 우측 정렬  
