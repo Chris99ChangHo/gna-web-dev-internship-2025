@@ -21,6 +21,7 @@ Elementor에서 헤더 섹션을 아래처럼 구성하고자 함:
 ---
 ![problem1](https://github.com/user-attachments/assets/dce2cf82-c01b-4a2b-a430-5d62369d0a0d)
 ![problem2](https://github.com/user-attachments/assets/31f0c530-d5e1-4840-bc56-978de000c789)
+
 ---
 
 ## 📌 원인 분석
@@ -49,6 +50,7 @@ Elementor에서 헤더 섹션을 아래처럼 구성하고자 함:
 ### ✅ 해결 후 화면
 ---
 ![fixed](https://github.com/user-attachments/assets/b88c9fa0-bfa1-4ed4-b5f0-34798e758324)
+
 ---
 
 ## 💡 느낀 점
