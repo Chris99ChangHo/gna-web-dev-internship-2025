@@ -2,30 +2,30 @@
 
 ## 🎓 What I Did Today
 
-**📌 9 AM – Attended daily development meeting** 
-**📌 Finished recreating the layout with using Elementor Pro**
-**📌 Polished margins and paddings for a cleaner layout**
-**📌 Struggled with the header button section – still not working as intended**
+**📌 9 AM – Attended daily development meeting**  
+**📌 Finished recreating the layout of [kpainting.com.au](https://kpainting.com.au) using Elementor Pro**  
+**📌 Polished margins and paddings for a cleaner layout**  
+**📌 Struggled with the header button section – still not working as intended**  
 **📌 Started research on WooCommerce for future use**
 
-* Completed layout recreation for [kpainting.com.au](https://kpainting.com.au) using Elementor Pro:
+Started rebuilding the layout using **Elementor Pro**:  
 - Ensured section spacing (margins/paddings) is consistent  
 - Implemented full-width hero section and service blocks  
 - Final layout looks much cleaner after focusing on spacing and alignment  
-- Thank you for the tip on margin/padding – made a noticeable difference  
+- Thank you for the tip on margin/padding – it made a noticeable difference  
 
 **Ongoing issue:**  
 - Header buttons are not aligning properly to the right side  
 - Tried adjusting button styles and positioning in Header Template but no success  
 - Will ask for help once mentor is available  
 
-**Began researching WooCommerce, the most popular eCommerce plugin for WordPress:**  
+**Began researching WooCommerce**, the most popular eCommerce plugin for WordPress:  
 - Installed locally and explored key features:  
   - Product listing and single product pages  
   - Cart and checkout pages  
   - Payment gateway integration (PayPal, Stripe, etc.)  
   - WooCommerce Blocks for product display in Elementor  
-- Tested adding dummy products and configuring product categories  
+- Tested adding dummy products and configuring product categories
 
 ---
 
