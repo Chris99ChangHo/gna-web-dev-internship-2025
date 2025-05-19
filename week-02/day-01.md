@@ -33,7 +33,7 @@
 - Practical layout structuring strategies used in production (header/footer/section separation)  
 - Error reporting methods during functional testing (logs + screenshots + links)  
 - How to structure and share documentation on Elementor + HTML/CSS customization effectively
-- 
+
 ---
 
 # 📅 1일차 (2025-05-19, 월)
