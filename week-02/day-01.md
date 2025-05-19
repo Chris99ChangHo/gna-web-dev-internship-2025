@@ -13,7 +13,6 @@
 - Ready for final QA if needed
 
 ### Oppa Painting Client Site  
-- Development started at `dev.gnasolutions.com.au/intern02`  
 - Planned 4 pages: Home, About, Service, Contact  
 - Saved and reused existing KPainting template setup  
 - Ensured all previous pages remain accessible in the backend
@@ -53,7 +52,6 @@
 - 필요한 경우 최종 QA 예정
 
 ### 오빠페인팅 클라이언트 사이트  
-- 작업 위치: `dev.gnasolutions.com.au/intern02`  
 - 총 4페이지 (Home, About, Service, Contact) 구성 예정  
 - 기존 KPainting 세팅을 템플릿으로 저장 후 재활용 기반으로 작업  
 - 백엔드에서 기존 페이지 유지 설정 완료
