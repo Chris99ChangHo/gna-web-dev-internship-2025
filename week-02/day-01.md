@@ -35,6 +35,34 @@
 - Error reporting methods during functional testing (logs + screenshots + links)  
 - How to structure and share documentation on Elementor + HTML/CSS customization effectively
 
+### 🔧 Elementor + HTML/CSS Customization (Practical Application)
+
+- Elementor provides visual page-building, but advanced customization often requires CSS injection  
+- In real-world projects, precise control over spacing, alignment, responsiveness, and animation usually depends on custom HTML/CSS  
+- For example:
+  - Overriding default Elementor padding/margin via custom classes
+  - Creating custom hover effects or transitions not available in default widgets
+  - Using media queries to fix specific device-related UI issues
+- Documenting customizations (e.g., what was changed, why, and where it's used) is important for team collaboration  
+- Saving reusable sections or templates (with custom code embedded) greatly improves development speed in client work
+
+### 🧪 Functional Testing: What It Is and Why It Matters
+
+- Functional testing verifies that each feature of a website or application behaves as expected from the user's point of view  
+- It involves testing actions, interactions, and logic flow (e.g., button behavior, membership rules, form submissions)
+
+**In today’s task (Airhome testing):**
+- Focus was on checking new membership-level functionality and relationship-based access logic  
+- The dev site has no images, but function testing proceeds with:
+  - Account creation under different roles (e.g., Basic vs. Premium)
+  - Validating feature availability per user level
+  - Recording bugs with steps to reproduce, links, and screenshots
+
+**Why it matters:**
+- Ensures features work before client delivery or deployment  
+- Helps developers identify unintended behavior early  
+- Becomes part of the QA documentation and improves communication between dev and project teams
+
 ---
 
 # 📅 1일차 (2025-05-19, 월)
@@ -74,3 +102,30 @@
 - 실무에서 자주 쓰이는 레이아웃 구성 전략 (헤더/푸터/섹션 분리)  
 - 기능 테스트 시 오류 리포트 작성 방식 (로그 + 스크린샷 + 링크)  
 - Elementor + HTML/CSS 커스터마이징 정리 구조 및 공유 방식
+
+### 🔧 Elementor + HTML/CSS 커스터마이징 (실무 적용)
+
+- Elementor는 시각적인 페이지 빌더이지만, 실제 프로젝트에서는 세밀한 제어를 위해 HTML/CSS 커스터마이징이 자주 필요함  
+- 특히 여백 조정, 정렬 문제 해결, 반응형 세부 조정, 애니메이션 구현 등은 CSS로 직접 수정하는 경우가 많음  
+- 실무 예시:
+  - Elementor 기본 마진/패딩을 커스텀 클래스로 덮어쓰기  
+  - 기본 위젯에는 없는 호버 효과, 트랜지션 등을 직접 구현  
+  - 특정 디바이스에서 깨지는 레이아웃을 미디어 쿼리로 대응
+- 커스터마이징한 코드에 대한 설명과 위치를 문서화해 두면 협업에 매우 유용  
+- 이처럼 커스터마이징한 섹션이나 템플릿을 저장해두면 클라이언트 사이트 작업 시 재사용이 가능하여 개발 효율이 향상됨
+
+### 🧪 기능 테스트란? 그리고 실무에서 왜 중요한가?
+
+- 기능 테스트(Functional Testing)는 웹사이트 또는 애플리케이션의 각 기능이 요구사항에 맞게 제대로 작동하는지를 검증하는 과정임  
+- 오늘 받은 업무에서는 신규 기능이 적용된 Airhome 사이트의 멤버십 단계, 권한 구조, 화면 동작 등을 확인  
+- 테스트 대상:
+  - 서로 다른 멤버십 단계 간 권한 차이
+  - 특정 버튼 또는 메뉴가 권한에 따라 노출/비노출 되는지 여부
+  - 회원가입/로그인 흐름이 정상적으로 작동하는지  
+- 실무에서는 QA 엔지니어나 프론트 개발자가 담당하며, 발견한 문제는 다음과 같이 정리:
+  - **문제 요약**
+  - **관련 링크**
+  - **스크린샷**
+  - **재현 방법 (재현 Steps)**  
+- 이 과정은 릴리즈 전 품질 보증의 핵심이며, 문서화가 잘 되어 있어야 개발자/PM과의 소통이 원활함
+
