@@ -27,8 +27,17 @@
 - Checked summarized guide on Elementor + HTML + CSS customization  
 - Useful for practical applications and portfolio documentation
 
+## 🧠 Key Concepts Learned
+
+- How to reuse templates for managing multiple client sites under the same domain  
+- Responsive layout optimization techniques using Elementor  
+- Practical layout structuring strategies used in production (header/footer/section separation)  
+- Error reporting methods during functional testing (logs + screenshots + links)  
+- How to structure and share documentation on Elementor + HTML/CSS customization effectively
+- 
 ---
-# 📅 Day 01 (2025-05-19, Mon)
+
+# 📅 1일차 (2025-05-19, 월)
 
 ## 🎓 오늘 한 일
 
@@ -57,3 +66,11 @@
 ### 참고 자료  
 - Elementor + HTML + CSS 커스터마이징 관련 요약 자료 확인  
 - 실무 적용 및 포트폴리오 정리에 유용
+
+## 🧠 Key Concepts Learned
+
+- 클라이언트 사이트 이중 운영을 위한 템플릿 재사용 방법  
+- Elementor 기반의 반응형 레이아웃 최적화 기법  
+- 실무에서 자주 쓰이는 레이아웃 구성 전략 (헤더/푸터/섹션 분리)  
+- 기능 테스트 시 오류 리포트 작성 방식 (로그 + 스크린샷 + 링크)  
+- Elementor + HTML/CSS 커스터마이징 정리 구조 및 공유 방식
