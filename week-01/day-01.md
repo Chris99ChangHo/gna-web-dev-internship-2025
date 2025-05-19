@@ -3,7 +3,7 @@
 ## 🎓 What I Did Today
 
 **📌 Attended first daily development meeting at 9 AM** 
-**📌 Onboarding**  
+**📌 GNA interns onboarding**  
 **📌 Basics of WordPress/Elementor**  
 **📌 Local Environment Setup**
 
