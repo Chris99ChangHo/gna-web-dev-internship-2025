@@ -130,7 +130,7 @@ Started rebuilding the layout using **Elementor Pro**:
   - Elementor에서 WooCommerce 블록 사용  
 - 더미 상품 추가 및 상품 카테고리 설정 테스트 완료
 
-## 🧠 오늘 배운 핵심 개념
+## 🧠 배운 핵심 개념
 
 - 마진과 패딩을 일관되게 관리하면 레이아웃 가독성이 향상됨  
 - Elementor 헤더 템플릿 내 레이아웃 문제 해결 방법  
