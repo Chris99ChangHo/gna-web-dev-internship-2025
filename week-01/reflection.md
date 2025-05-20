@@ -1,4 +1,4 @@
-# 📝 Week 1 Reflection (May 12 ~ May 16, 2025)
+# 📝 Week 1 Reflection (2025.05.12 ~ 05.16)
 
 ## ✅ Key Tasks This Week
 
