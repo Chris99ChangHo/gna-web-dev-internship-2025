@@ -7,7 +7,7 @@
 **📌 Confirmed all pages are responsive and ready for review**  
 **📌 Briefly checked Airhome test site – no issues to report today**  
 **📌 Discussed WooCommerce study plan with senior developer**  
-**📌 Updated core WooCommerce concepts summary in `extracurricular/woocommerce/` folder**
+**📌 Updated basic WooCommerce concepts summary in `extracurricular/woocommerce/` folder**
 
 ### OPPA Painting Client Site
 - Finalized layout and content for all four pages
@@ -29,35 +29,7 @@
   - Template override and customization methods (Product, Cart, Checkout pages)
   - Role of Elementor Pro in WooCommerce design flexibility
 
-## 🧠 Key Concepts Learned
-
-- Device-specific layout optimization using Elementor (especially for iPad breakpoints)
-- Fixing container behavior via padding, width, and flex settings
-- Structure of WooCommerce (wp_posts, postmeta, custom tables)
-- Role of template files and hooks (actions/filters) in WooCommerce customization
-- Elementor Pro integration points for building WooCommerce-based pages
-
-## 🔜 Next Steps for WooCommerce
-
-- Learn how to override WooCommerce templates properly (via child theme)
-- Practice customizing:
-  - Single product layout
-  - Cart and checkout flow
-- Explore WooCommerce Blocks and Elementor Pro Woo Widgets
-- Understand how to build custom product loops or dynamic shop grids
-
----
-
-# 📅 Day 02 (2025-05-20, 화)
-
-## 🎓 오늘 한 일
-**📌 오전 9시 – 데일리 개발 미팅 참석**  
-**📌 OPPA Painting 사이트의 나머지 4개 페이지 (Home, About, Services, Contact) 작업 완료**  
-**📌 모바일 및 태블릿(iPad) 최적화 완료**  
-**📌 모든 페이지 반응형 확인 완료 및 리뷰 대기 중**  
-**📌 Airhome 테스트 사이트는 기능 정상, 오늘은 따로 테스트 항목 없음**  
-**📌 선임 개발자와 WooCommerce 학습 계획 논의**  
-**📌 `extracurricular/woocommerce/` 폴더에 WooCommerce 핵심 개념 정리 업로드 완료**
+## 🧠 Ke초 개념 정리 업로드 완료**
 
 ### OPPA Painting 클라이언트 사이트
 - 4개 주요 페이지 레이아웃 및 콘텐츠 구성 마무리
@@ -65,7 +37,7 @@
 - 모바일 및 태블릿(iPad) 화면 최적화:
   - 패딩, 너비, 정렬 문제 수정
   - iPhone, iPad 화면 기준으로 반응형 확인
-- 전체 페이지 사수에게 시각적 검토 완료, 세부 리뷰는 대기 중
+- 전체 페이지 사수에게 시각적 검토, 세부 리뷰는 대기 중
 
 ### Airhome 기능 테스트
 - 전달받은 테스트 체크리스트 기반 기능 확인
