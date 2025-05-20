@@ -37,6 +37,21 @@
 - Learned how to creatively structure Elementor layouts to overcome limitations  
 - I expect more UI challenges ahead, but I’ve gained confidence in solving them step by step
 
+### 🛒 Intro to WooCommerce (Basic Research)
+
+- **WooCommerce** is the most widely used open-source **eCommerce plugin** for WordPress, enabling easy setup of online stores.
+- Key features include:
+  - **Product listing** (Simple/Variable products)
+  - Built-in **Cart** and **Checkout** pages
+  - **Order, stock, and customer management**
+  - Integration with major **payment gateways** (PayPal, Stripe, etc.)
+- Elementor Pro Integration:
+  - Fully **customizable Product, Cart, and Checkout pages**
+  - Dedicated **WooCommerce widgets** in Elementor (Add to Cart, Product Title, Price, etc.)
+  - Allows flexible layout and consistent branding across eCommerce pages
+
+> 🔎 Goal: Understand WooCommerce structure and learn how to customize key pages (Product, Cart, Checkout) using Elementor Pro
+
 ---
 
 # 📝 1주차 회고 (2025.05.12 ~ 05.16)
@@ -78,4 +93,18 @@
 - Elementor의 도구적 한계를 창의적인 구조 설계로 극복할 수 있다는 가능성을 경험함
 - 앞으로도 다양한 UI 이슈가 발생하겠지만, 차근차근 접근하면 충분히 해결할 수 있을 것이라는 자신감을 얻음
 
+### 🛒 WooCommerce 개념 정리 (기초 리서치)
+
+- **WooCommerce**는 WordPress에서 가장 널리 사용되는 오픈소스 **이커머스 플러그인**으로, 온라인 쇼핑몰 구축을 쉽게 할 수 있음
+- 주요 기능:
+  - **제품 등록 기능** (단일 제품, 옵션 포함 제품 등)
+  - 기본 제공되는 **장바구니 / 결제 페이지**
+  - **주문, 재고, 고객 정보** 관리 가능
+  - PayPal, Stripe 등 다양한 **결제 수단 연동** 지원
+- Elementor Pro와의 연동:
+  - **제품, 장바구니, 결제 페이지를 자유롭게 커스터마이징** 가능
+  - Elementor 전용 **WooCommerce 위젯** 사용 가능 (장바구니 버튼, 제품명, 가격 등)
+  - 브랜드 스타일을 맞추면서도 유연한 이커머스 디자인 구현 가능
+
+> 🔎 목표: WooCommerce 구조를 이해하고 Elementor Pro를 통해 주요 페이지(Product, Cart, Checkout)를 커스터마이징하는 방법 익히기
 
