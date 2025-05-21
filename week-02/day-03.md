@@ -2,22 +2,34 @@
 
 ## 🎓 What I Did Today
 
-**📌 Attended daily development meeting at 9 AM.**  
-**📌 Received a new practical assignment: building an e-commerce site using WooCommerce, referencing gangnamsyrup.com.au.**  
-**📌 Started implementing the header section, focusing on logo, navigation menu, and utility icons (Search, My Account, Cart).**  
-**📌 Investigated methods for mobile and tablet optimization, specifically for banners and embedded videos.**  
-**📌 Reviewed and summarized common WooCommerce and Elementor development challenges and their solutions from today's practice.**  
+**📌 Attended daily development meeting at 9 AM.**
+**📌 Received a new practical assignment: building an e-commerce site using WooCommerce, referencing gangnamsyrup.com.au.**
+**📌 Completed WooCommerce initial setup and product registration.**
+**📌 Started and significantly progressed on the header section, focusing on logo, navigation menu, and utility icons (Search, My Account, Cart).**
+**📌 Investigated and applied methods for mobile and tablet optimization, specifically for banners and embedded videos.**
+**📌 Implemented Elementor's Product widget with detailed query usage for specific product displays.**
+**📌 Worked extensively on the My Account page, covering login, registration, and all related processes.**
+**📌 Completed the My Shop page (main page displaying all products).**
+**📌 Finished basic setup/design for Home, About Us, and Contact Us pages.**
+**📌 Reviewed and summarized common WooCommerce and Elementor development challenges and their solutions from today's practice.**
 
 ### WooCommerce E-commerce Client Site Practice
 - **Project Goal:** Begin building an e-commerce site, replicating design and functionality from [gangnamsyrup.com.au](https://gangnamsyrup.com.au/).
+- **WooCommerce Initial Setup & Product Registration:** Completed the foundational WooCommerce settings and uploaded initial product data.
 - **Header Implementation:**
     - Structured header using 3 Elementor containers: Site Logo, Navigation Menu, and a section for utility icons (Search, My Account, Cart).
     - **Search Icon:** Explored methods to create a toggle search bar (like the overlay/dropdown seen on the reference site) using Elementor's `Search` widget.
-    - **My Account Icon:** Linked to WooCommerce's default 'My Account' page.
+    - **My Account Icon:** Linked to WooCommerce's default 'My Account' page, ensuring login/registration flows are handled.
     - **Cart Icon:** Integrated WooCommerce's cart functionality, aiming for a mini-cart display (likely using Elementor's `Menu Cart` widget).
+- **Product Display (WooCommerce & Elementor):**
+    - Utilized Elementor's `Products` widget effectively, leveraging its 'Query' section (Include/Exclude options) to display specific products based on categories, tags, or IDs on various pages.
+    - Confirmed the distinction between `Products` widget for general pages and `Archive Products` widget for shop/category archives.
+- **My Account Page:** Configured and styled the `My Account` page to handle user logins, registrations, password resets, and account details management, ensuring a smooth user experience.
+- **My Shop Page:** Established the primary shop page where all products are displayed, verifying its correct setup within WooCommerce.
+- **General Pages:** Completed initial design and content population for Home, About Us, and Contact Us pages.
 - **Mobile & Tablet Optimization:**
     - Analyzed the responsiveness of banners and YouTube videos on `gangnamsyrup.com.au` using Chrome DevTools.
-    - Researched and understood core principles of responsive web design within WordPress/WooCommerce: responsive themes, CSS media queries, fluid images/media (e.g., `max-width: 100%; height: auto;` for images, `padding-bottom` trick for `iframes`), Elementor's responsive settings, and the `viewport` meta tag.
+    - Researched and understood core principles of responsive web design within WordPress/WooCommerce: responsive themes, CSS media queries, fluid images/media (e.g., `max-width: 100%; height: auto;` for images, and `padding-bottom` trick for `iframes`), Elementor's responsive settings, and the `viewport` meta tag.
     - Consolidated these findings for `extracurricular/Study-Responsive-Web/Responsive-Design-Methods.md` and `Responsive-Design-Beginner-Guide.md`.
 
 ## 🧠 Key Concepts Learned
@@ -47,19 +59,31 @@
 
 ## 🎓 오늘 한 일
 
-**📌 오전 9시 일일 개발 미팅 참석.**  
-**📌 `gangnamsyrup.com.au`를 참고하여 WooCommerce를 활용한 이커머스 사이트 구축 실습 과제 부여받음.**  
-**📌 헤더 섹션 구현 시작: 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니)에 집중.**  
-**📌 모바일 및 태블릿 최적화 방법, 특히 배너와 삽입된 비디오에 대해 조사 및 적용.**  
-**📌 오늘 실습에서 겪었던 일반적인 WooCommerce 및 Elementor 개발 문제점과 해결 방안을 검토하고 요약.**  
+**📌 오전 9시 일일 개발 미팅 참석.**
+**📌 `gangnamsyrup.com.au`를 참고하여 WooCommerce를 활용한 이커머스 사이트 구축 실습 과제 부여받음.**
+**📌 우커머스 초기 설정 및 상품 등록 완료.**
+**📌 헤더 섹션 구현을 시작하여 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니)에 집중하며 상당 부분 진척.**
+**📌 모바일 및 태블릿 최적화 방법, 특히 배너와 삽입된 비디오에 대해 조사하고 적용.**
+**📌 엘리멘터 상품 위젯에 쿼리를 상세하게 사용하여 특정 상품을 진열하는 기능 구현.**
+**📌 내 계정 페이지(로그인, 회원가입 등 모든 관련 과정)에 대해 집중적으로 작업.**
+**📌 My shop 페이지(전체 상품을 보여주는 메인 페이지) 작업 완료.**
+**📌 Home, About Us, Contact Us 페이지의 기본 설정/디자인 작업 완료.**
+**📌 오늘 실습에서 겪었던 일반적인 WooCommerce 및 Elementor 개발 문제점과 해결 방안을 검토하고 요약.**
 
 ### WooCommerce 이커머스 클라이언트 사이트 실습
 - **프로젝트 목표:** `gangnamsyrup.com.au`의 디자인과 기능을 복제하여 이커머스 사이트 구축 시작.
+- **우커머스 초기 설정 및 상품 등록:** 기본적인 우커머스 설정 및 초기 상품 데이터 업로드 완료.
 - **헤더 구현:**
     - 엘리멘터 컨테이너 3개를 사용하여 헤더 구조화: 사이트 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니) 섹션.
     - **검색 아이콘:** 엘리멘터의 `Search` 위젯 기능을 활용하여 (참고 사이트에서 보이는 오버레이/드롭다운과 같은) 토글 검색 바를 만드는 방법 탐색.
-    - **내 계정 아이콘:** 우커머스의 기본 '내 계정' 페이지에 링크.
+    - **내 계정 아이콘:** 우커머스의 기본 '내 계정' 페이지에 링크하여 로그인/회원가입 흐름이 처리되도록 확인.
     - **장바구니 아이콘:** 우커머스의 장바구니 기능을 통합하여 미니 카트 표시를 목표로 함 (엘리멘터의 `Menu Cart` 위젯 활용 가능성 높음).
+- **상품 진열 (우커머스 & 엘리멘터):**
+    - 엘리멘터의 `상품` 위젯을 효과적으로 활용하여 '쿼리' 섹션(포함/제외 옵션)을 통해 카테고리, 태그 또는 ID 기반으로 특정 상품을 다양한 페이지에 진열.
+    - `상품` 위젯(일반 페이지용)과 `아카이브 상품` 위젯(상점/카테고리 아카이브용)의 차이점 명확히 이해.
+- **내 계정 페이지:** 사용자 로그인, 회원가입, 비밀번호 재설정, 계정 정보 관리 등을 처리하도록 `My Account` 페이지를 설정하고 스타일링하여 원활한 사용자 경험 보장.
+- **My shop 페이지:** 모든 상품이 진열되는 주력 상점 페이지를 구축하고 올바르게 설정되었는지 확인.
+- **일반 페이지:** Home, About Us, Contact Us 페이지의 초기 디자인 및 콘텐츠 구성 완료.
 - **모바일 및 태블릿 최적화:**
     - `gangnamsyrup.com.au`에서 배너와 YouTube 비디오의 반응형 동작을 크롬 개발자 도구를 사용하여 분석.
     - 워드프레스/우커머스 내 반응형 웹 디자인의 핵심 원리 연구 및 이해: 반응형 테마, 특정 조정을 위한 CSS 미디어 쿼리, 유연한 이미지/미디어(예: 이미지에 `max-width: 100%; height: auto;`, iframe에 `padding-bottom` 트릭), 엘리멘터의 반응형 설정, 그리고 `viewport` 메타 태그.
