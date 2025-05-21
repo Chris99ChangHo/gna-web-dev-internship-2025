@@ -2,16 +2,16 @@
 
 ## 🎓 What I Did Today
 
-**📌 Attended daily development meeting at 9 AM.**
-**📌 Received a new practical assignment: building an e-commerce site using WooCommerce, referencing gangnamsyrup.com.au.**
-**📌 Completed WooCommerce initial setup and product registration.**
-**📌 Started and significantly progressed on the header section, focusing on logo, navigation menu, and utility icons (Search, My Account, Cart).**
-**📌 Investigated and applied methods for mobile and tablet optimization, specifically for banners and embedded videos.**
-**📌 Implemented Elementor's Product widget with detailed query usage for specific product displays.**
-**📌 Worked extensively on the My Account page, covering login, registration, and all related processes.**
-**📌 Completed the My Shop page (main page displaying all products).**
-**📌 Finished basic setup/design for Home, About Us, and Contact Us pages.**
-**📌 Reviewed and summarized common WooCommerce and Elementor development challenges and their solutions from today's practice.**
+**📌 Attended daily development meeting at 9 AM.**  
+**📌 Received a new practical assignment: building an e-commerce site using WooCommerce, referencing gangnamsyrup.com.au.**  
+**📌 Completed WooCommerce initial setup and product registration.**  
+**📌 Started and significantly progressed on the header section, focusing on logo, navigation menu, and utility icons (Search, My Account, Cart).**  
+**📌 Investigated and applied methods for mobile and tablet optimization, specifically for banners and embedded videos.**  
+**📌 Implemented Elementor's Product widget with detailed query usage for specific product displays.**  
+**📌 Worked extensively on the My Account page, covering login, registration, and all related processes.**  
+**📌 Completed the My Shop page (main page displaying all products).**  
+**📌 Finished basic setup/design for Home, About Us, and Contact Us pages.**  
+**📌 Reviewed and summarized common WooCommerce and Elementor development challenges and their solutions from today's practice.**  
 
 ### WooCommerce E-commerce Client Site Practice
 - **Project Goal:** Begin building an e-commerce site, replicating design and functionality from [gangnamsyrup.com.au](https://gangnamsyrup.com.au/).
@@ -59,16 +59,16 @@
 
 ## 🎓 오늘 한 일
 
-**📌 오전 9시 일일 개발 미팅 참석.**
-**📌 `gangnamsyrup.com.au`를 참고하여 WooCommerce를 활용한 이커머스 사이트 구축 실습 과제 부여받음.**
-**📌 우커머스 초기 설정 및 상품 등록 완료.**
-**📌 헤더 섹션 구현을 시작하여 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니)에 집중하며 상당 부분 진척.**
-**📌 모바일 및 태블릿 최적화 방법, 특히 배너와 삽입된 비디오에 대해 조사하고 적용.**
-**📌 엘리멘터 상품 위젯에 쿼리를 상세하게 사용하여 특정 상품을 진열하는 기능 구현.**
-**📌 내 계정 페이지(로그인, 회원가입 등 모든 관련 과정)에 대해 집중적으로 작업.**
-**📌 My shop 페이지(전체 상품을 보여주는 메인 페이지) 작업 완료.**
-**📌 Home, About Us, Contact Us 페이지의 기본 설정/디자인 작업 완료.**
-**📌 오늘 실습에서 겪었던 일반적인 WooCommerce 및 Elementor 개발 문제점과 해결 방안을 검토하고 요약.**
+**📌 오전 9시 일일 개발 미팅 참석.**  
+**📌 `gangnamsyrup.com.au`를 참고하여 WooCommerce를 활용한 이커머스 사이트 구축 실습 과제 부여받음.**  
+**📌 우커머스 초기 설정 및 상품 등록 완료.**  
+**📌 헤더 섹션 구현을 시작하여 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니)에 집중하며 상당 부분 진척.**  
+**📌 모바일 및 태블릿 최적화 방법, 특히 배너와 삽입된 비디오에 대해 조사하고 적용.**  
+**📌 엘리멘터 상품 위젯에 쿼리를 상세하게 사용하여 특정 상품을 진열하는 기능 구현.**  
+**📌 내 계정 페이지(로그인, 회원가입 등 모든 관련 과정)에 대해 집중적으로 작업.**  
+**📌 My shop 페이지(전체 상품을 보여주는 메인 페이지) 작업 완료.**  
+**📌 Home, About Us, Contact Us 페이지의 기본 설정/디자인 작업 완료.**  
+**📌 오늘 실습에서 겪었던 일반적인 WooCommerce 및 Elementor 개발 문제점과 해결 방안을 검토하고 요약.**  
 
 ### WooCommerce 이커머스 클라이언트 사이트 실습
 - **프로젝트 목표:** `gangnamsyrup.com.au`의 디자인과 기능을 복제하여 이커머스 사이트 구축 시작.
