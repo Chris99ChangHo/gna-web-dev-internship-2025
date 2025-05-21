@@ -8,8 +8,8 @@
 **📌 Started and significantly progressed on the header section, focusing on logo, navigation menu, and utility icons (Search, My Account, Cart).**  
 **📌 Investigated and applied methods for mobile and tablet optimization, specifically for banners and embedded videos.**  
 **📌 Implemented Elementor's Product widget with detailed query usage for specific product displays.**  
-**📌 Worked extensively on the My Account page, covering login, registration, and all related processes.**  
-**📌 Completed the My Shop page (main page displaying all products).**  
+**📌 Configured and designed the My Account page, including comprehensive handling of login, registration, and all customer account processes.**  
+**📌 Set up and completed the My Shop page as the primary product catalog, displaying all items.**  
 **📌 Finished basic setup/design for Home, About Us, and Contact Us pages.**  
 **📌 Reviewed and summarized common WooCommerce and Elementor development challenges and their solutions from today's practice.**  
 
@@ -19,13 +19,18 @@
 - **Header Implementation:**
     - Structured header using 3 Elementor containers: Site Logo, Navigation Menu, and a section for utility icons (Search, My Account, Cart).
     - **Search Icon:** Explored methods to create a toggle search bar (like the overlay/dropdown seen on the reference site) using Elementor's `Search` widget.
-    - **My Account Icon:** Linked to WooCommerce's default 'My Account' page, ensuring login/registration flows are handled.
     - **Cart Icon:** Integrated WooCommerce's cart functionality, aiming for a mini-cart display (likely using Elementor's `Menu Cart` widget).
 - **Product Display (WooCommerce & Elementor):**
     - Utilized Elementor's `Products` widget effectively, leveraging its 'Query' section (Include/Exclude options) to display specific products based on categories, tags, or IDs on various pages.
     - Confirmed the distinction between `Products` widget for general pages and `Archive Products` widget for shop/category archives.
-- **My Account Page:** Configured and styled the `My Account` page to handle user logins, registrations, password resets, and account details management, ensuring a smooth user experience.
-- **My Shop Page:** Established the primary shop page where all products are displayed, verifying its correct setup within WooCommerce.
+- **My Account Page Comprehensive Setup:**
+    - Configured and customized the WooCommerce 'My Account' page to handle all aspects of user authentication and account management.
+    - This included setting up and styling sections for **user login, new account registration, password reset**, and various customer dashboards (e.g., **Orders history, Downloads, Addresses, Payment Methods, Account details**).
+    - Utilized Elementor Theme Builder to design the layout and ensure a consistent, user-friendly interface for all customer account sections.
+- **My Shop Page (Main Product Catalog):**
+    - Established the 'My Shop' page as the primary product catalog, ensuring it correctly displays all available products from the store.
+    - Configured WooCommerce shop settings and used Elementor's `Archive Products` widget (or `Products` widget with appropriate queries) to arrange products visually and optimize the Browse experience.
+    - Confirmed its role as the central hub for customers to browse all offerings.
 - **General Pages:** Completed initial design and content population for Home, About Us, and Contact Us pages.
 - **Mobile & Tablet Optimization:**
     - Analyzed the responsiveness of banners and YouTube videos on `gangnamsyrup.com.au` using Chrome DevTools.
@@ -39,7 +44,9 @@
 - **WooCommerce Core Widgets:**
     - **`Products` Widget:** Its primary use for displaying specific products based on queries on any page.
     - **`Archive Products` Widget:** Its exclusive use within Theme Builder's Product Archive templates, and why it shouldn't be used on general pages.
-- **WooCommerce Basic Settings:** Importance of configuring product display, 'Add to Cart' button behavior, and 'My Account' settings.
+- **Comprehensive My Account Page Management:** Deep understanding of WooCommerce default endpoints for My Account sub-pages (Dashboard, Orders, Downloads, Addresses, Account details, Logout) and how to style/customize them effectively with Elementor.
+- **WooCommerce Shop Page Configuration:** How to set up and manage the main shop page for displaying all products.
+- **WooCommerce Basic Settings:** Importance of configuring product display, 'Add to Cart' button behavior, and other core settings.
 - **Product Image Management:** Criticality of WooCommerce image settings (`Appearance > Customize > WooCommerce > Product Images`), 'Thumbnail Cropping', and using `Regenerate Thumbnails` plugin. Also, Elementor's 'Image Size' and 'Object-fit' options for `Products` widget.
 - **Cache Management:** The absolute necessity of clearing various caches (browser, WordPress plugins, server) after making changes to see immediate results.
 - **Responsive Design Fundamentals:** Re-emphasizing the role of responsive themes, media queries, and flexible elements in achieving cross-device compatibility.
@@ -65,8 +72,8 @@
 **📌 헤더 섹션 구현을 시작하여 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니)에 집중하며 상당 부분 진척.**  
 **📌 모바일 및 태블릿 최적화 방법, 특히 배너와 삽입된 비디오에 대해 조사하고 적용.**  
 **📌 엘리멘터 상품 위젯에 쿼리를 상세하게 사용하여 특정 상품을 진열하는 기능 구현.**  
-**📌 내 계정 페이지(로그인, 회원가입 등 모든 관련 과정)에 대해 집중적으로 작업.**  
-**📌 My shop 페이지(전체 상품을 보여주는 메인 페이지) 작업 완료.**  
+**📌 내 계정 페이지를 구성하고 디자인하며 로그인, 회원가입 및 모든 고객 계정 관련 과정을 포괄적으로 처리.**  
+**📌 My shop 페이지를 모든 상품을 표시하는 기본 상품 카탈로그로 설정하고 작업 완료.**  
 **📌 Home, About Us, Contact Us 페이지의 기본 설정/디자인 작업 완료.**  
 **📌 오늘 실습에서 겪었던 일반적인 WooCommerce 및 Elementor 개발 문제점과 해결 방안을 검토하고 요약.**  
 
@@ -76,13 +83,18 @@
 - **헤더 구현:**
     - 엘리멘터 컨테이너 3개를 사용하여 헤더 구조화: 사이트 로고, 내비게이션 메뉴, 유틸리티 아이콘(검색, 내 계정, 장바구니) 섹션.
     - **검색 아이콘:** 엘리멘터의 `Search` 위젯 기능을 활용하여 (참고 사이트에서 보이는 오버레이/드롭다운과 같은) 토글 검색 바를 만드는 방법 탐색.
-    - **내 계정 아이콘:** 우커머스의 기본 '내 계정' 페이지에 링크하여 로그인/회원가입 흐름이 처리되도록 확인.
     - **장바구니 아이콘:** 우커머스의 장바구니 기능을 통합하여 미니 카트 표시를 목표로 함 (엘리멘터의 `Menu Cart` 위젯 활용 가능성 높음).
 - **상품 진열 (우커머스 & 엘리멘터):**
     - 엘리멘터의 `상품` 위젯을 효과적으로 활용하여 '쿼리' 섹션(포함/제외 옵션)을 통해 카테고리, 태그 또는 ID 기반으로 특정 상품을 다양한 페이지에 진열.
     - `상품` 위젯(일반 페이지용)과 `아카이브 상품` 위젯(상점/카테고리 아카이브용)의 차이점 명확히 이해.
-- **내 계정 페이지:** 사용자 로그인, 회원가입, 비밀번호 재설정, 계정 정보 관리 등을 처리하도록 `My Account` 페이지를 설정하고 스타일링하여 원활한 사용자 경험 보장.
-- **My shop 페이지:** 모든 상품이 진열되는 주력 상점 페이지를 구축하고 올바르게 설정되었는지 확인.
+- **내 계정 페이지 포괄적 설정:**
+    - 사용자 인증 및 계정 관리의 모든 측면을 처리하도록 우커머스 '내 계정' 페이지를 구성하고 커스터마이징.
+    - 여기에는 **사용자 로그인, 새 계정 등록, 비밀번호 재설정** 및 다양한 고객 대시보드(예: **주문 내역, 다운로드, 주소, 결제 수단, 계정 세부 정보**) 섹션 설정 및 스타일링이 포함됨.
+    - 엘리멘터 테마 빌더를 활용하여 레이아웃을 디자인하고 모든 고객 계정 섹션에 대해 일관되고 사용자 친화적인 인터페이스 보장.
+- **My shop 페이지 (메인 상품 카탈로그):**
+    - 'My shop' 페이지를 기본 상품 카탈로그로 설정하여 상점의 모든 사용 가능한 상품을 올바르게 표시하도록 함.
+    - 우커머스 상점 설정을 구성하고 엘리멘터의 `아카이브 상품` 위젯(또는 적절한 쿼리를 사용한 `상품` 위젯)을 사용하여 상품을 시각적으로 배열하고 검색 경험을 최적화.
+    - 고객이 모든 상품을 탐색하는 중심 허브 역할을 하도록 확인.
 - **일반 페이지:** Home, About Us, Contact Us 페이지의 초기 디자인 및 콘텐츠 구성 완료.
 - **모바일 및 태블릿 최적화:**
     - `gangnamsyrup.com.au`에서 배너와 YouTube 비디오의 반응형 동작을 크롬 개발자 도구를 사용하여 분석.
@@ -96,7 +108,9 @@
 - **우커머스 핵심 위젯:**
     - **`상품` (Products) 위젯:** 어떤 페이지에서든 쿼리(카테고리, 태그, ID 등)에 따라 특정 상품을 표시하기 위한 주된 용도.
     - **`아카이브 상품` (Archive Products) 위젯:** 테마 빌더의 상품 아카이브 템플릿 내에서만 독점적으로 사용되며, 일반 페이지에 사용해서는 안 되는 이유.
-- **우커머스 기본 설정:** 상품 진열, '장바구니 추가' 버튼 동작, '내 계정' 설정 구성의 중요성.
+- **내 계정 페이지 포괄적 관리:** 내 계정 서브 페이지(대시보드, 주문, 다운로드, 주소, 계정 세부 정보, 로그아웃)에 대한 우커머스 기본 엔드포인트와 엘리멘터로 효과적으로 스타일링/커스터마이징하는 방법에 대한 깊은 이해.
+- **우커머스 상점 페이지 구성:** 모든 상품을 표시하기 위한 메인 상점 페이지를 설정하고 관리하는 방법.
+- **우커머스 기본 설정:** 상품 진열, '장바구니 추가' 버튼 동작, 기타 핵심 설정 구성의 중요성.
 - **상품 이미지 관리:** 우커머스 이미지 설정(`외모 > 사용자 정의하기 > WooCommerce > Product Images`), '썸네일 자르기', `Regenerate Thumbnails` 플러그인 사용의 중요성. 또한 엘리멘터 '상품' 위젯의 '이미지 크기' 및 '객체 맞춤' 옵션.
 - **캐시 관리:** 변경 사항을 즉시 반영하기 위해 다양한 캐시(브라우저, 워드프레스 플러그인, 서버)를 지우는 것의 절대적인 필요성.
 - **반응형 디자인 기본:** 다양한 기기 호환성을 달성하기 위한 반응형 테마, 미디어 쿼리, 유연한 요소의 역할 재강조.
