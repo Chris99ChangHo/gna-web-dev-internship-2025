@@ -20,7 +20,7 @@
     - Researched and understood core principles of responsive web design within WordPress/WooCommerce: responsive themes, CSS media queries, fluid images/media (e.g., `max-width: 100%; height: auto;` for images, `padding-bottom` trick for `iframes`), Elementor's responsive settings, and the `viewport` meta tag.
     - Consolidated these findings for `extracurricular/Study-Responsive-Web/Responsive-Design-Methods.md` and `Responsive-Design-Beginner-Guide.md`.
 
-## 🧠 Key Concepts Learned / 오늘 배운 핵심 개념
+## 🧠 Key Concepts Learned
 
 - **Header Customization with Elementor Theme Builder:** How to create a custom header layout with multiple containers for various elements.
 - **Interactive Search Implementation:** Understanding the concept of toggling a search bar (overlay/dropdown) via Elementor widgets or custom JavaScript/CSS.
@@ -33,7 +33,7 @@
 - **Responsive Design Fundamentals:** Re-emphasizing the role of responsive themes, media queries, and flexible elements in achieving cross-device compatibility.
 - **Problem Solving Approach:** The importance of clear problem definition, step-by-step verification, and utilizing official documentation/community resources.
 
-## 🔜 Future Study Direction / 이후 학습 방향
+## 🔜 Future Study Direction
 
 - Continue practicing WooCommerce e-commerce site building, moving beyond the header.
 - Deep dive into customizing specific WooCommerce template files for product, cart, and checkout pages.
@@ -65,7 +65,7 @@
     - 워드프레스/우커머스 내 반응형 웹 디자인의 핵심 원리 연구 및 이해: 반응형 테마, 특정 조정을 위한 CSS 미디어 쿼리, 유연한 이미지/미디어(예: 이미지에 `max-width: 100%; height: auto;`, iframe에 `padding-bottom` 트릭), 엘리멘터의 반응형 설정, 그리고 `viewport` 메타 태그.
     - 이 발견 사항들을 `extracurricular/Study-Responsive-Web/Responsive-Design-Methods.md` 및 `Responsive-Design-Beginner-Guide.md`에 정리.
 
-## 🧠 오늘 배운 핵심 개념
+## 🧠 배운 핵심 개념
 
 - **엘리멘터 테마 빌더를 활용한 헤더 커스터마이징:** 다양한 요소를 위한 여러 컨테이너를 포함하는 맞춤형 헤더 레이아웃을 만드는 방법.
 - **인터랙티브 검색 구현:** 엘리멘터 위젯 또는 커스텀 JavaScript/CSS를 통해 검색 바를 토글(오버레이/드롭다운)하는 개념 이해.
