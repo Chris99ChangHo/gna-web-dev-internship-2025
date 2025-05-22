@@ -2,8 +2,8 @@
 
 ## 🎓 What I Did Today
 
-* **📌 Attended daily development meeting at 9 AM**  
-* **📌 Applied comprehensive content updates and structural adjustments to the Dental Core client site (Index, About Us, Equipments, Consumables, Contact pages) based on client feedback**
+* **📌 Attended daily development meeting at 9 AM.**  
+* **📌 Applied comprehensive content updates and structural adjustments to the Dental Core client site (Index, About Us, Equipments, Consumables, Contact pages) based on client feedback.**
 * - This included updating contact information, revising navigation menus, renaming product categories (e.g., 'Imaging' to 'Equipments'), updating core site messaging, and integrating new testimonial and team member content.
 * **📌 Researched and documented best practices and solutions for various WooCommerce and Elementor-related challenges, including:**  
     * WooCommerce product image ratio/alignment issues
@@ -126,22 +126,22 @@ In practice, the core solution is "**Image Widget + Flexbox Alignment + Pre-matc
     * 배너 및 컨테이너의 반응형 디자인 기술
     * 전자 상거래 사이트용 이미지 준비 팁
     * WooCommerce 결제 및 주문 흐름 테스트
-    * **반응형 2단 레이아웃 문제 해결 (배경 이미지 vs. 이미지 위젯, Flexbox vs. 패딩 정렬).**
+    * **반응형 2단 레이아웃 문제 해결 (배경 이미지 vs. 이미지 위젯, Flexbox vs. 패딩 정렬)**
 
 ## 🧠 배운 핵심 개념
 
-* **클라이언트 피드백 통합:** 여러 사이트 페이지에 걸쳐 다양하고 상세한 클라이언트의 콘텐츠 및 디자인 피드백을 효율적으로 해석하고 적용하는 실질적인 경험을 얻었습니다.
-* **콘텐츠 관리 워크플로우:** 새로운 사양에 따라 사이트 콘텐츠(텍스트, 이미지, 섹션)를 체계적으로 업데이트하는 과정을 재확인했습니다.
-* **사이트 일관성:** 업데이트 시 모든 페이지에 걸쳐 통일된 브랜딩, 내비게이션 및 연락처 정보를 유지하는 것의 중요성을 강조했습니다.
-* **엘리멘터 효율성:** 콘텐츠 변경 사항을 수용하기 위해 엘리멘터를 사용하여 기존 섹션을 빠르게 수정하고 새 요소를 추가하는 기술을 향상시켰습니다.
-* **WooCommerce 이미지 관리:** 최적의 상품 표시를 위해 적절한 이미지 크기 조정, 썸네일 자르기 및 Regenerate Thumbnails와 같은 플러그인 사용의 중요성에 대해 배웠습니다.
-* **사용자 정의 검색 창 구현:** CSS/JS 기반 솔루션을 포함하여 Elementor에서 대화형 검색 창(아이콘 토글, 팝업, 드롭다운)을 만드는 다양한 방법을 살펴보았습니다.
-* **Elementor Theme Builder 구조:** Product Archive, Single Product 및 Search Results 템플릿과 해당 응용 프로그램에 대한 더 깊은 이해를 얻었습니다.
-* **타겟 CSS 스타일 지정:** CSS 선택기를 사용하여 특정 WooCommerce 영역(예: 관련 상품, 업셀)에서 요소를 숨기는 방법을 배웠습니다.
-* **반응형 디자인 기술:** 장치 간 호환성을 위해 뷰포트 단위(vw, %), 미디어 쿼리 및 유연한 레이아웃을 사용하는 지식을 강화했습니다.
-* **전자 상거래용 이미지 준비:** 전문적인 상품 프레젠테이션을 위해 Canva/Photoshop과 같은 도구에서 일관된 이미지 비율과 이미지 사전 처리의 중요성을 이해했습니다.
-* **WooCommerce 결제 테스트:** 내장 기능 및 플러그인을 사용하여 결제 흐름을 테스트하는 방법을 조사하고 문서화했습니다.
-* **반응형 레이아웃 모범 사례:** 콘텐츠에 배경 이미지 대신 이미지 위젯을 사용하고, 정렬/간격에 Elementor의 Flexbox 컨테이너를 적극 활용하며, 레이아웃 왜곡 방지를 위해 기기별 반응형 설정을 정의하는 방법을 배웠습니다.
+* **클라이언트 피드백 통합:** 여러 사이트 페이지에 걸쳐 다양하고 상세한 클라이언트의 콘텐츠 및 디자인 피드백을 효율적으로 해석하고 적용하는 실질적인 경험을 얻음
+* **콘텐츠 관리 워크플로우:** 새로운 사양에 따라 사이트 콘텐츠(텍스트, 이미지, 섹션)를 체계적으로 업데이트하는 과정을 재확인
+* **사이트 일관성:** 업데이트 시 모든 페이지에 걸쳐 통일된 브랜딩, 내비게이션 및 연락처 정보를 유지하는 것의 중요성을 강조
+* **엘리멘터 효율성:** 콘텐츠 변경 사항을 수용하기 위해 엘리멘터를 사용하여 기존 섹션을 빠르게 수정하고 새 요소를 추가하는 기술을 향상
+* **WooCommerce 이미지 관리:** 최적의 상품 표시를 위해 적절한 이미지 크기 조정, 썸네일 자르기 및 Regenerate Thumbnails와 같은 플러그인 사용의 중요성
+* **사용자 정의 검색 창 구현:** CSS/JS 기반 솔루션을 포함하여 Elementor에서 대화형 검색 창(아이콘 토글, 팝업, 드롭다운)을 만드는 다양한 방법을 조사
+* **Elementor Theme Builder 구조:** Product Archive, Single Product 및 Search Results 템플릿과 해당 응용 프로그램에 대한 더 깊은 이해를 얻음
+* **타겟 CSS 스타일 지정:** CSS 선택기를 사용하여 특정 WooCommerce 영역(예: 관련 상품, 업셀)에서 요소를 숨기는 방법을 배움
+* **반응형 디자인 기술:** 장치 간 호환성을 위해 뷰포트 단위(vw, %), 미디어 쿼리 및 유연한 레이아웃을 사용하는 지식을 강화
+* **전자 상거래용 이미지 준비:** 전문적인 상품 프레젠테이션을 위해 Canva/Photoshop과 같은 도구에서 일관된 이미지 비율과 이미지 사전 처리의 중요성을 이해
+* **WooCommerce 결제 테스트:** 내장 기능 및 플러그인을 사용하여 결제 흐름을 테스트하는 방법을 조사하고 문서화
+* **반응형 레이아웃 모범 사례:** 콘텐츠에 배경 이미지 대신 이미지 위젯을 사용하고, 정렬/간격에 Elementor의 Flexbox 컨테이너를 적극 활용하며, 레이아웃 왜곡 방지를 위해 기기별 반응형 설정을 정의하는 방법을 조사
 
 ## 🔜 이후 학습 방향
 
