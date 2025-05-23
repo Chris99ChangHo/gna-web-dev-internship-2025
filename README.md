@@ -22,10 +22,10 @@ Here you'll find organized folders detailing each week's progress, alongside ded
 
     제 개발 경험과 역량을 효과적으로 보여줄 수 있도록 LinkedIn 프로필 및 포트폴리오를 구성하기 위한 자료와 아이디어를 모아둔 공간입니다.
 
-* **[Week 01 Folder / 1주차 폴더](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/Week1)**:
+* **[Week 01 Folder / 1주차 폴더]()**:
     * `day01.md` ~ `day05.md`: Daily progress and task records for the week.
     * `reflection.md`: Reflection and key learnings from Week 01.
-    * **[Troubleshooting](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/Week1/Troubleshooting)**: Documentation of problem-solving processes and insights gained while developing during Week 01.
+    * **[Troubleshooting]()**: Documentation of problem-solving processes and insights gained while developing during Week 01.
 
 * **[Week 02 Folder / 2주차 폴더](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/Week2)**:
     * `day01.md` ~ `day05.md` (or `day06.md` ~ `day10.md`): Daily progress and task records for the week.
