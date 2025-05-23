@@ -1,4 +1,4 @@
-# 🛒 WooCommerce Core Concepts (For Interns, Before the Next Stage)
+# 🛒 WooCommerce Core Concepts
 
 ## 1. 🧱 Core Concepts
 
@@ -56,7 +56,7 @@ Following these best practices will ensure your WooCommerce site is robust, main
 
 ---
 
-# 🛒 WooCommerce 핵심 개념 (인턴용, 다음 단계로 가기 전)
+# 🛒 WooCommerce 핵심 개념
 
 ## 1. 🧱 핵심 개념
 
