@@ -2,6 +2,15 @@
 
 ## 🎓 What I Did Today
 
+* **📌 Completed main structure and functionality for gangnamsyrup.com.au (practice project).**
+* **📌 Practiced Elementor Theme Builder for product/post templates.**
+* **📌 Tested end-to-end payment flow with Stripe, including various order scenarios.**
+* **📌 Continuously optimized mobile layouts for header, icons, and cards.**
+* **📌 Identified product image consistency issues and best solutions (pre-resizing).**
+* **📌 Guest checkout testing pending due to environment limitations.**
+
+### Detailed Activities
+
 * **WooCommerce E-commerce Site Completion (gangnamsyrup.com.au practice project):**
     * Successfully worked through the main structure and functionality of the `gangnamsyrup.com.au` e-commerce practice site, focusing on core WooCommerce features.
     * While not every product/post was fully implemented due to volume, I focused on building out the essential page flows and structures.
@@ -43,6 +52,15 @@
 
 ## 🎓 오늘 한 일
 
+* **📌 gangnamsyrup.com.au 실습 프로젝트의 주요 구조 및 기능 완성.**
+* **📌 Elementor Theme Builder를 활용한 상품/포스트 템플릿 실습.**
+* **📌 Stripe를 통한 결제 및 다양한 주문 시나리오 엔드투엔드 테스트.**
+* **📌 헤더, 아이콘, 카드 등 모바일 레이아웃 지속 최적화.**
+* **📌 상품 이미지 비율 불일치 문제 인지 및 원본 이미지 사전 리사이징의 중요성 확인.**
+* **📌 개발 환경 제약으로 비회원 주문 테스트 보류.**
+
+### 상세 활동
+
 * **WooCommerce 이커머스 사이트 완성 (gangnamsyrup.com.au 실습 프로젝트):**
     * `gangnamsyrup.com.au` 이커머스 실습 프로젝트의 주요 구조와 기능을 중심으로 작업을 진행했습니다.
     * 모든 상품/포스트를 완전히 구현하지는 못했지만, 핵심 페이지 흐름과 구조를 구축하는 데 집중했습니다.
@@ -74,6 +92,6 @@
 
 * **전체 페이지 흐름 완성 및 최적화:** Elementor Theme Builder를 활용하여 남은 상품/포스트 페이지의 전체 흐름을 완성하고, 대량의 콘텐츠에서도 최적의 성능을 유지할 수 있는 방안을 탐구합니다.
 * **비회원 주문 흐름 완벽 실습:** 사이트의 호스팅 상태가 허용되면, 비회원 주문 흐름을 포함한 모든 결제 시나리오를 완벽하게 테스트하고 학습하여 실제 서비스 운영에 대비합니다.
-* **고급 반응형 디자인 및 Elementor 기능 심화:** Elementor의 숨겨진 기능이나 외부 애드온(예: 동적 가시성 플러그인)을 활용하여 로그인/비로그인 상태별 메뉴 분기와 같은 복잡한 UI/UX를 구현하는 방법을 연구합니다.
+* **고급 반응형 디자인 및 Elementor 기능 심화:** Elementor의 숨겨진 기능이나 외부 애드온(예: 동적 가시성 플러그인)을 활용하여 로그인/비로그인 상태별 메뉴 분리와 같은 복잡한 UI/UX를 구현하는 방법을 연구합니다.
 * **WooCommerce 고급 운영 관리:** 재고 관리 플러그인(예: Stock Manager for WooCommerce) 활용, 세금/배송 설정 등 WooCommerce의 고급 운영 기능을 더 깊이 학습하여 이커머스 사이트 전반의 관리 역량을 강화합니다.
 * **사이트 배포 및 출시 전 점검 프로세스:** 실제 사이트 오픈 전, 사이트 접근 제한(만약 있다면) 해제, 캐시 문제, 퍼머링크 등 운영 시 발생할 수 있는 다양한 기술적 문제에 대한 최종 점검 체크리스트를 만들고 숙달합니다.
