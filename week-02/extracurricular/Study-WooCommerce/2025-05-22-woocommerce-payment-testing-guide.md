@@ -73,6 +73,35 @@ A third-party plugin offering more flexible configuration options for direct pay
 
 ---
 
+## 💡 Recommended Free Plugins for Comprehensive Payment & Order Flow Testing
+
+For a solid understanding of WooCommerce payment and order flows without actual transactions, focus on these methods:
+
+1.  **WooCommerce Built-in 'Direct Bank Transfer'**:
+    * **Purpose**: Test **manual payment processing** and backend order status changes (`On hold` -> `Processing`).
+    * **How**: Activate directly in `WooCommerce > Settings > Payments`. Complete an order, then manually change its status in the backend.
+    * **Benefit**: No extra plugin needed, helps understand manual order confirmation.
+
+2.  **WooCommerce Order Test Plugin**:
+    * **Purpose**: Simulate **any successful order completion** instantly to test the post-payment workflow (email notifications, inventory reduction, order status).
+    * **How**: Install from WordPress plugin repository. Activate a 'test payment gateway' in `WooCommerce > Settings > Payments`. Use it to complete orders without real payment info.
+    * **Benefit**: Focus on the *results* of a successful payment, regardless of the method. Can be restricted to administrators.
+
+3.  **Stripe Payment Gateway for WooCommerce**:
+    * **Purpose**: Test **credit card (and other direct online payment) processing** with industry-standard tools.
+    * **How**: Install from WordPress plugin repository. Use **Stripe's Test Mode** and provided test card numbers to simulate transactions.
+    * **Benefit**: Understand the user experience of card payments, instant transaction feedback, and secure payment field handling.
+
+### Why these are sufficient:
+
+* Using **Stripe** covers the most common direct online payment method (credit cards).
+* The **Built-in Direct Bank Transfer** helps you understand manual payment processing.
+* The **WooCommerce Order Test** plugin lets you verify the entire post-payment order management workflow quickly and safely.
+
+While other plugins like PayPal or PeachPay offer unique features (e.g., redirected payments, checkout optimization), the combination above provides a solid foundation for understanding the core mechanics of WooCommerce payment and order flows.
+
+---
+
 # WooCommerce 결제 및 주문 흐름 테스트 가이드
 
 이 문서는 최근 개발 미팅 피드백을 바탕으로, WooCommerce 개발 환경에서 무통장입금/계좌이체 및 전반적인 결제/주문 흐름을 테스트하는 데 활용할 수 있는 다양한 무료 플러그인 옵션들을 정리합니다.
@@ -145,3 +174,32 @@ WooCommerce 내장 무통장입금보다 더 유연한 직접 결제 방식 설�
     * **향상된 설정:** 기본 무통장입금보다 약간 더 많은 커스터마이징 옵션을 제공할 수 있습니다.
     * **대안 고려:** 만약 WooCommerce 내장 기능이 특정 요구사항을 충족하지 못할 경우 대안으로 고려할 수 있습니다.
     * **서드파티 의존성:** 플러그인 업데이트 및 지원에 대한 의존성이 발생합니다.
+
+---
+
+## 💡 결제 및 주문 흐름 종합 테스트를 위한 추천 무료 플러그인
+
+실제 거래 없이 결제 및 주문 흐름을 포괄적으로 테스트하려면 다음 방법들에 집중하세요.
+
+1.  **WooCommerce 내장 '무통장입금' (Direct Bank Transfer)**:
+    * **목적**: **수동 결제 처리** 및 백엔드 주문 상태 변경(`보류 중` -> `처리 중`)을 테스트합니다.
+    * **방법**: `WooCommerce > 설정 > 결제`에서 직접 활성화합니다. 주문을 완료한 후, 백엔드에서 수동으로 주문 상태를 변경합니다.
+    * **장점**: 추가 플러그인 필요 없이, 수동 주문 확인 과정을 이해하는 데 도움이 됩니다.
+
+2.  **WooCommerce Order Test (우커머스 오더 테스트) 플러그인**:
+    * **목적**: **모든 성공적인 주문 완료**를 즉시 시뮬레이션하여 결제 후 워크플로우(이메일 알림, 재고 감소, 주문 상태)를 테스트합니다.
+    * **방법**: WordPress 플러그인 저장소에서 설치합니다. `WooCommerce > 설정 > 결제`에서 '테스트 결제 게이트웨이'를 활성화하고, 실제 결제 정보 없이 주문을 완료하는 데 사용합니다.
+    * **장점**: 결제 방식과 무관하게 성공적인 결제 *결과*에 집중할 수 있습니다. 관리자에게만 보이도록 설정 가능합니다.
+
+3.  **Stripe Payment Gateway for WooCommerce**:
+    * **목적**: 업계 표준 도구를 사용하여 **신용카드(및 기타 직접 온라인 결제) 처리**를 테스트합니다.
+    * **방법**: WordPress 플러그인 저장소에서 설치합니다. **Stripe의 테스트 모드**와 제공되는 테스트 카드 번호를 사용하여 거래를 시뮬레이션합니다.
+    * **장점**: 카드 결제의 사용자 경험, 즉각적인 거래 피드백, 보안 결제 필드 처리 등을 이해할 수 있습니다.
+
+### 이 방법들이 충분한 이유:
+
+* **Stripe**를 사용하여 가장 일반적인 직접 온라인 결제 방식(신용카드)을 다룰 수 있습니다.
+* **내장 무통장입금**은 수동 결제 처리 방식을 이해하는 데 도움이 됩니다.
+* **WooCommerce Order Test** 플러그인은 실제 결제 없이 전체 결제 후 주문 관리 워크플로우를 빠르고 안전하게 확인할 수 있게 해줍니다.
+
+PayPal이나 PeachPay 같은 다른 플러그인들이 고유한 기능(예: 리다이렉트 결제, 체크아웃 최적화)을 제공하지만, 위 조합만으로도 WooCommerce 결제 및 주문 흐름의 핵심 메커니즘을 이해하는 데 충분한 기반을 마련할 수 있습니다.
