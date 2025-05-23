@@ -2,6 +2,9 @@
 
 ## 🎓 What I Did Today
 
+* **WooCommerce E-commerce Site Completion (gangnamsyrup.com.au practice project):**
+    * Successfully worked through the main structure and functionality of the `gangnamsyrup.com.au` e-commerce practice site, focusing on core WooCommerce features.
+    * While not every product/post was fully implemented due to volume, I focused on building out the essential page flows and structures.
 * **Template Practice:**
     * Practiced creating product/post archive and single templates using Elementor Theme Builder.
     * Focused on testing core structures as the large number of products/posts made full page flow completion challenging.
@@ -40,6 +43,9 @@
 
 ## 🎓 오늘 한 일
 
+* **WooCommerce 이커머스 사이트 완성 (gangnamsyrup.com.au 실습 프로젝트):**
+    * `gangnamsyrup.com.au` 이커머스 실습 프로젝트의 주요 구조와 기능을 중심으로 작업을 진행했습니다.
+    * 모든 상품/포스트를 완전히 구현하지는 못했지만, 핵심 페이지 흐름과 구조를 구축하는 데 집중했습니다.
 * **템플릿 실습:**
     * Elementor Theme Builder로 상품/포스트 아카이브, 싱글 템플릿 실습.
     * 상품/포스트가 많아 전체 페이지 흐름 완성은 미완이며, 핵심 구조 위주로 테스트 진행.
