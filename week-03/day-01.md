@@ -2,9 +2,9 @@
 
 ## 🎓 What I Did Today
 
-**📌 Researched and Understood WooCommerce Core Feature Structures for practical application in the `gangnamsyrup.com.au` project.**  
+**📌 Researched and Understood WooCommerce Core Feature Structures for practical application (based on the `gangnamsyrup.com.au` project).**  
 **📌 Explored Elementor Addon concepts and confirmed their necessity for enhanced functionality.**  
-**📌 Studied WooCommerce Default Page Customization methods (PHP Template Override) and explored application possibilities.**  
+**📌 Studied WooCommerce Default Page Customization methods (PHP Template Override) and explored application possibilitie .**  
 **📌 Reviewed core e-commerce operational elements (Shipping, Permalinks) and considered systematic management via Git.**  
 
 ### Detailed Activities
@@ -43,8 +43,8 @@
         * **Using Specialized Plugins:** Extending functionality using plugins specialized for specific pages (e.g., Checkout) (to be considered for future project expansion).
         * **Using WordPress Customizer:** Modifying design within limited scope through the default WordPress Customizer (applied for simple style adjustments).
 
-* **WooCommerce Permalinks Settings Understanding & Optimization Review:**
-    * Studied the impact of WooCommerce permalink settings on Search Engine Optimization (SEO) and User Experience (UX). Understood how to set up product and category URL structures to be more SEO-friendly.
+* **WooCommerce Permalinks Settings Importance Acknowledgment & Optimization Review:**
+    * **Acknowledged the importance** of WooCommerce permalink settings for Search Engine Optimization (SEO) and User Experience (UX). **Understood the necessity** of setting up product and category URL structures to be more SEO-friendly.
     * **Setting Path:** `WordPress Admin > Settings > Permalinks` and `WooCommerce > Settings > Products > General > Permalinks`.
     * **Key Options:** Understood the differences between various options like default, product name, product category, and established criteria for selecting the most suitable structure (e.g., clear URL structures like `domain/product/product-name`, `domain/product-category/category-name`).
 
@@ -70,7 +70,7 @@
 * **Integrated Understanding of WooCommerce End-to-End System Structure:** Through e-commerce project practice, gained a comprehensive understanding of the overall flow of the WooCommerce e-commerce system and the interaction of each function, from product registration to order processing, customer management, payment/shipping settings (especially Shipping Zone), and analytics. **During the Shipping structure review process, recognizing its detail and flexibility, gained the motivation to apply the same methodology to deeply understand other core concepts.**
 * **Understanding Elementor Addon Functionality Expansion & Necessity:** Through LLM's recommendation, **researched the concept of Elementor Pro and third-party addons and understood their functional extensibility.** Especially recognized the high utility of **Conditional Display features** for dynamically controlling content or UI elements based on user status (logged-in/logged-out) or page characteristics (categories, specific products), which is considered a key competency for building a personalized user experience.
 * **Learning PHP-based WooCommerce Template Override Methodology for Practical Application:** With specific page (My Account, Login, etc.) customization in mind, thoroughly learned the concept, necessity, and **practical procedure of safely modifying original files by copying them to a child theme** using the PHP template override method. This is a crucial methodology for maintaining brand identity while ensuring updates are robust.
-* **Understanding SEO and UX Optimization Elements for E-commerce Websites (Permalinks):** Understood the importance of WooCommerce permalink settings for Search Engine Optimization (SEO) and User Experience (UX), and learned how to set up URL structures to be clear and consistent.
+* **Acknowledging the Importance of SEO and UX Optimization for E-commerce Websites (Permalinks):** **Acknowledged the importance** of WooCommerce permalink settings for Search Engine Optimization (SEO) and User Experience (UX), and **understood the necessity** of setting up URL structures to be clear and consistent.
 * **Recognizing the Importance of Project Version Control and Collaboration using Git:** Reconfirmed that systematically managing all changes, including WooCommerce customization code, for a real project via Git, and documenting it in a `README.md` file, is essential for improving development productivity and collaboration efficiency.
 
 ## 🔜 Future Study Direction
@@ -80,14 +80,13 @@
 * **In-depth WooCommerce Shipping & Tax Settings:** Plan to thoroughly study and apply advanced WooCommerce settings such as Shipping Zones, Shipping Classes, and Tax Rates to match actual shipping and tax policies, building a complete e-commerce operational foundation.
 * **Deepening PHP and WordPress Hooks Utilization:** Beyond WooCommerce template overrides, continue learning and practicing PHP coding skills by utilizing WordPress and WooCommerce action and filter hooks via the `functions.php` file for extending functionality.
 * **Creating Pre-Deployment and Launch Checklist:** Before actual deployment, plan to create and master a final checklist for site stability and performance, including final permalink structure verification, cache settings, and basic SEO configurations.
-
 ---
 
 # 📅 Day 01 (2025-05-26, 월)
 
 ## 🎓 오늘 한 일
 
-**📌 WooCommerce 핵심 기능 구조 파악 및 실무 적용 방안 리서치 (강남시럽 프로젝트 기반).**  
+**📌 WooCommerce 핵심 기능 구조 파악 및 실무 적용 방안 리서치 (강남시럽 프로젝트 `gangnamsyrup.com.au` 기반).**  
 **📌 Elementor 애드온(Addon)의 개념 이해 및 활용 필요성 확인.**  
 **📌 WooCommerce 기본 페이지 커스터마이징 (PHP 템플릿 오버라이드) 방법 학습 및 적용 가능성 탐색.**  
 **📌 이커머스 핵심 운영 요소(Shipping, Permalinks) 구조 확인 및 Git을 통한 체계적 관리 방안 검토.**  
@@ -128,8 +127,8 @@
         * **특화 플러그인 활용:** 특정 페이지(예: Checkout)에 특화된 플러그인을 사용하여 기능 확장 (향후 프로젝트 확장 시 검토).
         * **워드프레스 커스터마이저 활용:** 제한적인 범위 내에서 워드프레스 기본 커스터마이저를 통해 디자인 변경 (간단한 스타일 조정에 적용).
 
-* **WooCommerce 퍼머링크(Permalinks) 설정 이해 및 최적화 방안 검토:**
-    * WooCommerce 퍼머링크 설정이 검색 엔진 최적화(SEO) 및 사용자 경험(UX)에 미치는 영향을 학습했습니다. 제품 및 카테고리 URL 구조를 보다 SEO 친화적으로 설정하는 방법을 파악했습니다.
+* **WooCommerce 퍼머링크(Permalinks) 설정의 중요성 인지 및 최적화 방안 검토:**
+    * WooCommerce 퍼머링크 설정이 검색 엔진 최적화(SEO) 및 사용자 경험(UX)에 미치는 **중요성에 대해 인지했습니다.** 제품 및 카테고리 URL 구조를 보다 SEO 친화적으로 설정할 **필요성을 파악**했습니다.
     * **설정 경로:** `워드프레스 관리자 > 설정 > 고유주소 (Permalinks)` 및 `WooCommerce > 설정 > 상품 > 일반 > 고유주소`.
     * **주요 옵션:** 기본, 상품 이름, 상품 카테고리 등 다양한 옵션의 차이를 이해하고 프로젝트에 가장 적합한 구조를 선택하는 기준을 마련했습니다. (예: `도메인/상품/상품명`, `도메인/product-category/카테고리명`과 같이 명확한 URL 구조).
 
@@ -153,9 +152,9 @@
 ## 🧠 배운 핵심 개념
 
 * **WooCommerce 엔드투엔드(End-to-End) 시스템 구조 파악:** 이커머스 프로젝트 실습을 통해 상품 등록부터 주문 처리, 고객 관리, 결제/배송 설정(특히 Shipping Zone), 그리고 분석에 이르는 WooCommerce 이커머스 시스템의 전반적인 흐름과 각 기능의 상호작용을 통합적으로 이해했습니다. **Shipping 구조 확인 과정에서 그 상세함과 유연성을 보고 다른 핵심 개념에도 동일한 방법론을 적용하여 깊이 있게 파악해야겠다는 학습 의지를 갖게 되었습니다.**
-* **Elementor 애드온의 기능 확장 및 필요성 인식:** LLM의 추천을 통해 Elementor Pro 및 서드파티 애드온의 개념을 **검색하고 그 기능적 확장성**을 파악했습니다. 특히 **조건부 표시(Conditional Display) 기능**이 사용자 상태나 페이지 특성에 따라 동적으로 UI를 제어하는 데 매우 유용함을 이해했으며, 이는 개인화된 사용자 경험 구축에 핵심적인 역량으로 검토됩니다.
+* **Elementor 애드온의 기능 확장 및 필요성 인식:** LLM의 추천을 통해 Elementor Pro 및 서드파티 애드온의 개념을 **검색하고 그 기능적 확장성**을 파악했습니다. 특히 **조건부 표시(Conditional Display) 기능**이 사용자 상태나 페이지 특성(카테고리, 특정 상품)에 따라 동적으로 UI를 제어하는 데 매우 유용함을 이해했으며, 이는 개인화된 사용자 경험 구축에 핵심적인 역량으로 검토됩니다.
 * **PHP 기반 WooCommerce 템플릿 오버라이드 방법론 학습:** 특정 페이지(My Account, Login 등) 커스터마이징을 염두에 두고, PHP 템플릿 오버라이드 방식의 개념, 필요성, 그리고 **원본 파일을 직접 수정하지 않고 차일드 테마에 복사하여 안전하게 수정하는 실무 절차**를 명확히 학습했습니다. 이는 브랜드 아이덴티티를 유지하면서도 업데이트에 강건한 커스터마이징을 가능하게 하는 중요한 방법론입니다.
-* **이커머스 웹사이트의 SEO 및 UX 최적화를 위한 Permalinks 설정:** WooCommerce의 퍼머링크 설정이 검색 엔진 최적화(SEO) 및 사용자 경험(UX)에 미치는 중요성을 이해하고, URL 구조를 명확하고 일관성 있게 설정하는 방법을 학습했습니다.
+* **이커머스 웹사이트의 SEO 및 UX 최적화를 위한 Permalinks 설정의 중요성 인지:** WooCommerce의 퍼머링크 설정이 검색 엔진 최적화(SEO) 및 사용자 경험(UX)에 미치는 **중요성을 인지했습니다.** URL 구조를 명확하고 일관성 있게 설정할 필요성에 대해 이해했습니다.
 * **Git을 활용한 프로젝트 버전 관리 및 협업의 중요성 인식:** 실제 프로젝트에서 WooCommerce 커스터마이징 코드를 포함한 모든 변경 사항을 Git을 통해 체계적으로 관리하고, `README.md`를 통해 문서화하는 것이 개발 생산성 및 협업 효율성을 높이는 데 필수적임을 재확인했습니다.
 
 ## 🔜 이후 학습 방향
