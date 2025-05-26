@@ -2,12 +2,12 @@
 
 ## 🎓 What I Did Today
 
-* **📌 Completed main structure and functionality for gangnamsyrup.com.au (practice project).**
-* **📌 Practiced Elementor Theme Builder for product/post templates.**
-* **📌 Tested end-to-end payment flow with Stripe, including various order scenarios.**
-* **📌 Continuously optimized mobile layouts for header, icons, and cards.**
-* **📌 Identified product image consistency issues and best solutions (pre-resizing).**
-* **📌 Guest checkout testing pending due to environment limitations.**
+**📌 Completed main structure and functionality for gangnamsyrup.com.au (practice project).**  
+**📌 Practiced Elementor Theme Builder for product/post templates.**  
+**📌 Tested end-to-end payment flow with Stripe, including various order scenarios.**  
+**📌 Continuously optimized mobile layouts for header, icons, and cards.**  
+**📌 Identified product image consistency issues and best solutions (pre-resizing).**  
+**📌 Guest checkout testing pending due to environment limitations.**  
 
 ### Detailed Activities
 
@@ -52,12 +52,12 @@
 
 ## 🎓 오늘 한 일
 
-* **📌 gangnamsyrup.com.au 실습 프로젝트의 주요 구조 및 기능 완성.**
-* **📌 Elementor Theme Builder를 활용한 상품/포스트 템플릿 실습.**
-* **📌 Stripe를 통한 결제 및 다양한 주문 시나리오 엔드투엔드 테스트.**
-* **📌 헤더, 아이콘, 카드 등 모바일 레이아웃 지속 최적화.**
-* **📌 상품 이미지 비율 불일치 문제 인지 및 원본 이미지 사전 리사이징의 중요성 확인.**
-* **📌 개발 환경 제약으로 비회원 주문 테스트 보류.**
+**📌 gangnamsyrup.com.au 실습 프로젝트의 주요 구조 및 기능 완성.**  
+**📌 Elementor Theme Builder를 활용한 상품/포스트 템플릿 실습.**  
+**📌 Stripe를 통한 결제 및 다양한 주문 시나리오 엔드투엔드 테스트.**  
+**📌 헤더, 아이콘, 카드 등 모바일 레이아웃 지속 최적화.**  
+**📌 상품 이미지 비율 불일치 문제 인지 및 원본 이미지 사전 리사이징의 중요성 확인.**  
+**📌 개발 환경 제약으로 비회원 주문 테스트 보류.**  
 
 ### 상세 활동
 
