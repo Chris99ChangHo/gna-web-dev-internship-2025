@@ -2,10 +2,10 @@
 
 ## 🎓 What I Did Today
 
-**📌 Attended the 9 AM Daily Development Meeting.**
-**📌 Understood and practically applied the CSS-first approach for WooCommerce page design customization.**
-**📌 Explored how to use the `Simple Custom CSS and JS` plugin and gained experience in styling key WooCommerce pages with CSS.**
-**📌 Gained an initial understanding of JavaScript's role and PHP hooks for future learning.**
+**📌 Attended the 9 AM Daily Development Meeting.**  
+**📌 Understood and practically applied the CSS-first approach for WooCommerce page design customization.**  
+**📌 Explored how to use the `Simple Custom CSS and JS` plugin and gained experience in styling key WooCommerce pages with CSS.**  
+**📌 Gained an initial understanding of JavaScript's role and PHP hooks for future learning.**  
 
 ### Detailed Activities
 
@@ -53,10 +53,10 @@
 
 ## 🎓 오늘 한 일
 
-**📌 오전 9시 일일 개발 미팅 참석.**
-**📌 WooCommerce 페이지 디자인 커스터마이징을 위한 CSS 우선 접근 방식 이해 및 실전 적용.**
-**📌 `Simple Custom CSS and JS` 플러그인 활용법 및 주요 WooCommerce 페이지별 CSS 스타일링 경험.**
-**📌 향후 학습을 위한 JavaScript의 역할과 PHP 훅의 개념 파악.**
+**📌 오전 9시 일일 개발 미팅 참석.**  
+**📌 WooCommerce 페이지 디자인 커스터마이징을 위한 CSS 우선 접근 방식 이해 및 실전 적용.**  
+**📌 `Simple Custom CSS and JS` 플러그인 활용법 및 주요 WooCommerce 페이지별 CSS 스타일링 경험.**  
+**📌 향후 학습을 위한 JavaScript의 역할과 PHP 훅의 개념 파악.**  
 
 ### 상세 활동
 
