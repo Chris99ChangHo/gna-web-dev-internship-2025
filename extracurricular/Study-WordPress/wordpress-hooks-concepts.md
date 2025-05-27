@@ -1,4 +1,4 @@
-## ✅ WordPress Standard: Understanding and Utilizing Hooks (Enhanced Version - English)
+## ✅ WordPress Standard: Understanding and Utilizing Hooks
 
 This document focuses on the general concepts and utilization of Hooks across WordPress, with detailed explanations for each topic.
 
@@ -123,7 +123,7 @@ Hooks are the core extensibility structure of WordPress. WordPress itself provid
 
 ---
 
-## ✅ WordPress 기준: 훅(Hooks) 개념과 활용 최종 보완 (국문)
+## ✅ WordPress 기준: 훅(Hooks) 개념과 활용
 
 이 문서는 워드프레스 전반에 걸친 훅의 개념과 일반적인 활용에 초점을 맞추며, 각 주제를 더 자세하고 깊이 있게 설명합니다.
 
