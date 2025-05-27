@@ -28,12 +28,12 @@ Here you'll find organized folders detailing each week's progress, alongside ded
     * **[Troubleshooting](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-01/troubleshooting)**: Documentation of problem-solving processes and insights gained while developing during Week 01.
 
 * **[Week 02 Folder / 2주차 폴더](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-02)**:
-    * `day01.md` ~ `day05.md` (or `day06.md` ~ `day10.md`): Daily progress and task records for the week.
+    * `day01.md` ~ `day05.md`: Daily progress and task records for the week.
     * `reflection.md`: Reflection and key learnings from Week 02.
     * **[Troubleshooting](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-02/troubleshooting)**: Documentation of problem-solving processes and insights gained while developing during Week 02.
 
 * **[Week 03 Folder / 3주차 폴더](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-03)**:
-    * `day01.md` ~ `day05.md` (or `day11.md` ~ `day15.md`): Daily progress and task records for the week.
+    * `day01.md` ~ `day05.md`: Daily progress and task records for the week.
     * `reflection.md`: Reflection and key learnings from Week 03.
     * **[Troubleshooting](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-03/troubleshooting)**: Documentation of problem-solving processes and insights gained while developing during Week 03.
 
