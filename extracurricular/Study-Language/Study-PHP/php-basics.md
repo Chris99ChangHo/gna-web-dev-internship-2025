@@ -96,6 +96,48 @@ PHP code is written within PHP tags that start with `<?php` and end with `?>`, a
     echo sum(5, 3); // Output: 8
     ?>
     ```
+    
+* **Superglobals:** Built-in variables that are always available in all scopes. They hold information about user input, environment, and server.
+
+    * `$_GET`: An associative array of variables passed to the current script via the URL parameters.
+        ```php
+        <?php
+        // Example: If URL is [http://example.com/page.php?name=John](http://example.com/page.php?name=John)
+        $username = $_GET['name']; // $username will be "John"
+        echo "Hello, " . $username . "!";
+        ?>
+        ```
+        
+    * `$_POST`: An associative array of variables passed to the current script via the HTTP POST method when a form is submitted.
+        ```php
+        <?php
+        // Example: Form with <input name="email" type="text">
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            $email = $_POST['email'];
+            echo "Submitted email: " . $email;
+        }
+        ?>
+        ```
+        
+    * `$_REQUEST`: An associative array that by default contains the contents of `$_GET`, `$_POST`, and `$_COOKIE`.
+    * `$_SERVER`: An array containing information created by the web server, such as headers, paths, and script locations.
+        ```php
+        <?php
+        echo "Server Name: " . $_SERVER['SERVER_NAME'];
+        echo "Request Method: " . $_SERVER['REQUEST_METHOD'];
+        ?>
+        ```
+        
+    * `$_SESSION`: An associative array containing session variables available to the current script. Used to store information across multiple page requests for a single user.
+        ```php
+        <?php
+        session_start(); // Must be called at the beginning of the script
+        $_SESSION['user_id'] = 123;
+        echo "Session ID: " . session_id();
+        ?>
+        ```
+        
+    * `$_COOKIE`: An associative array of variables passed to the current script via HTTP Cookies.
 
 ## 3. Where is PHP Used? (Key Applications) 🌐
 
@@ -219,6 +261,48 @@ PHP 코드는 `<?php`로 시작하여 `?>`로 끝나는 PHP 태그 안에 작성
     echo sum(5, 3); // 결과: 8
     ?>
     ```
+
+* **슈퍼 글로벌(Superglobals):** 모든 범위에서 항상 사용 가능한 내장 변수입니다. 사용자 입력, 환경, 서버 등에 대한 정보를 담고 있습니다.
+
+    * `$_GET`: URL 매개변수를 통해 현재 스크립트로 전달된 변수들의 연관 배열입니다.
+        ```php
+        <?php
+        // 예시: URL이 [http://example.com/page.php?name=John](http://example.com/page.php?name=John) 일 경우
+        $username = $_GET['name']; // $username은 "John"이 됩니다.
+        echo "안녕하세요, " . $username . "!";
+        ?>
+        ```
+        
+    * `$_POST`: 폼이 제출될 때 HTTP POST 메소드를 통해 현재 스크립트로 전달된 변수들의 연관 배열입니다.
+        ```php
+        <?php
+        // 예시: <input name="email" type="text"> 필드가 있는 폼
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            $email = $_POST['email'];
+            echo "제출된 이메일: " . $email;
+        }
+        ?>
+        ```
+        
+    * `$_REQUEST`: 기본적으로 `$_GET`, `$_POST`, `$_COOKIE`의 내용을 포함하는 연관 배열입니다.
+    * `$_SERVER`: 웹 서버에 의해 생성된 정보(헤더, 경로, 스크립트 위치 등)를 담고 있는 배열입니다.
+        ```php
+        <?php
+        echo "서버 이름: " . $_SERVER['SERVER_NAME'];
+        echo "요청 방식: " . $_SERVER['REQUEST_METHOD'];
+        ?>
+        ```
+        
+    * `$_SESSION`: 현재 스크립트에서 사용 가능한 세션 변수들을 담고 있는 연관 배열입니다. 단일 사용자에 대해 여러 페이지 요청에 걸쳐 정보를 저장하는 데 사용됩니다.
+        ```php
+        <?php
+        session_start(); // 스크립트 시작 부분에서 반드시 호출해야 합니다.
+        $_SESSION['user_id'] = 123;
+        echo "세션 ID: " . session_id();
+        ?>
+        ```
+        
+    * `$_COOKIE`: HTTP 쿠키를 통해 현재 스크립트로 전달된 변수들의 연관 배열입니다.
 
 ## 3. PHP는 어디에 쓰이는가? (주요 활용 분야) 🌐
 
