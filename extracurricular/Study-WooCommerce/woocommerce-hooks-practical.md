@@ -1,4 +1,4 @@
-# WooCommerce Standard: Practical Hook Application and Customization
+# ✅WooCommerce Standard: Practical Hook Application and Customization
 
 This document focuses on the practical application of Hooks within the WooCommerce environment, detailing how they are used for real-world customization and functional extensions.
 
@@ -147,7 +147,7 @@ While Hooks are powerful for injecting content and modifying data, sometimes a m
 
 ---
 
-# 우커머스 기준: 훅(Hooks) 실전 활용 및 커스터마이즈
+# ✅우커머스 기준: 훅(Hooks) 실전 활용 및 커스터마이즈
 
 이 문서는 우커머스 환경에서 훅을 사용하여 실제로 어떻게 기능을 확장하고 커스터마이즈하는지에 초점을 맞추며, 실질적인 활용법을 상세히 설명합니다.
 
