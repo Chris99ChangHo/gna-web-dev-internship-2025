@@ -38,10 +38,10 @@ You can directly change HTML or insert simple PHP code through template override
 This example modifies the `content-single-product.php` file to add a message at the top of the product page.
 
 ```php
-  <?php
-  // content-single-product.php 파일의 특정 위치에 다음 코드를 추가합니다.
-  echo '<p style="color: blue;">👋 우리 가게에 오신 것을 환영합니다!</p>';
-  ?>
+   <?php
+   // Add the following code to a specific location within the content-single-product.php file.
+   echo '<p style="color: blue;">👋 Welcome to our store!</p>';
+   ?>
 ```
 
 * **Explanation:** This code, when inserted into `content-single-product.php`, will add a "👋 Welcome to our store!" message just before the `woocommerce_single_product_summary` hook, which typically displays product details like the title and price.
@@ -51,7 +51,7 @@ This example modifies the `content-single-product.php` file to add a message at 
 This example directly changes the HTML text in the `single-product/sale-flash.php` file.
 
 ```html
-  <p class="onsale">세일!</p>
+  <p class="onsale">Sale!</p>
 ```
 
 * **Explanation:** This example modifies the `sale-flash.php` template file to change the text from `<p class="onsale">Sale</p>` to `<p class="onsale">Sale!</p>`, demonstrating direct HTML manipulation via template override.
