@@ -21,10 +21,19 @@ HTML documents are written using tags and attributes. Most HTML tags consist of 
 * **Basic Document Structure:** Every HTML document has a standard structure to ensure web browsers can interpret and render it correctly.
 
     ```html
-    <!DOCTYPE html>  <html lang="en"> <head>           <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Document Title</title> <link rel="stylesheet" href="style.css"> </head>
-    <body>           <h1>Hello there!</h1>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document Title</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Hello there!</h1>
         <p>This is the first paragraph.</p>
-        <script src="script.js"></script> </body>
+        <script src="script.js"></script>
+    </body>
     </html>
     ```
 
@@ -151,10 +160,19 @@ HTML 문서는 태그와 속성을 사용하여 작성됩니다. 대부분의 HT
 * **기본 문서 구조:** 모든 HTML 문서는 웹 브라우저가 올바르게 해석하고 렌더링할 수 있도록 다음과 같은 표준 구조를 가집니다.
 
     ```html
-    <!DOCTYPE html>  <html lang="ko"> <head>           <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>문서 제목</title> <link rel="stylesheet" href="style.css"> </head>
-    <body>           <h1>안녕하세요!</h1>
+    <!DOCTYPE html>
+    <html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>문서 제목</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>안녕하세요!</h1>
         <p>이것은 첫 번째 문단입니다.</p>
-        <script src="script.js"></script> </body>
+        <script src="script.js"></script>
+    </body>
     </html>
     ```
 
