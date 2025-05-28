@@ -55,6 +55,12 @@ selector {
       ```
       
     * **Universal Selector:** Selects all HTML elements on the page (*).
+      ```css
+        * {
+          box-sizing: border-box; /* Applies to all elements */
+        }
+      ```
+      
     * **Group Selector:** Selects all the HTML elements with the same style definitions.
       ```css
         h1, h2, p {
@@ -211,6 +217,12 @@ CSS 규칙 세트는 선택자와 선언 블록으로 구성됩니다. 선택자
       ```
       
     * **전체 선택자:** 페이지의 모든 HTML 요소를 선택합니다 (*).
+      ```css
+        * {
+          box-sizing: border-box; /* 모든 요소에 적용 */
+        }
+      ```
+      
     * **그룹 선택자:** 동일한 스타일 정의를 가진 모든 HTML 요소를 선택합니다.
       ```css
         h1, h2, p {
