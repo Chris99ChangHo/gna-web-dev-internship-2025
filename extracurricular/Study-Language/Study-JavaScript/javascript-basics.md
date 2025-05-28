@@ -233,7 +233,7 @@ JavaScript 코드는 `<script>` 태그를 사용하여 HTML 안에 직접 포함
     console.log(person['age']);   // 결과: 30
     ```
 
-## 3. JavaScript는 어디에 쓰이는가? (주요 활용 분야) 🌐
+## 3. JavaScript는 어디에 사용되나요? (주요 활용 분야) 🌐
 
 JavaScript의 다재다능함은 현대 웹 개발의 거의 모든 측면과 그 이상에서 사용될 수 있게 합니다.
 
