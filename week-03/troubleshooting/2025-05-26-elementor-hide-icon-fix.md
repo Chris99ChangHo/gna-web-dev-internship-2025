@@ -1,4 +1,4 @@
-# ✅ Elementor Header Login/My Account Button Conditional Display Fix
+# ✅ Elementor Header Login/MyAccount Button Conditional Display Fix
 
 ## 🔍 Problem Situation
 
