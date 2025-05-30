@@ -2,7 +2,7 @@
 
 ## 🎓 What I Did Today
 
-**📌 Attended daily development meeting at 9 AM.**
+**📌 Attended daily development meeting at 9 AM.**  
 **📌 Researched and Understood WooCommerce Core Feature Structures for practical application (based on the `gangnamsyrup.com.au` project).**  
 **📌 Explored Elementor Addon concepts and confirmed their necessity for enhanced functionality.**  
 **📌 Studied WooCommerce Default Page Customization methods (PHP Template Override) and explored application possibilitie .**  
@@ -87,7 +87,7 @@
 
 ## 🎓 오늘 한 일
 
-**📌 오전 9시 일일 개발 미팅 참석**
+**📌 오전 9시 일일 개발 미팅 참석**  
 **📌 WooCommerce 핵심 기능 구조 파악 및 실무 적용 방안 리서치 (강남시럽 프로젝트 `gangnamsyrup.com.au` 기반).**  
 **📌 Elementor 애드온(Addon)의 개념 이해 및 활용 필요성 확인.**  
 **📌 WooCommerce 기본 페이지 커스터마이징 (PHP 템플릿 오버라이드) 방법 학습 및 적용 가능성 탐색.**  
