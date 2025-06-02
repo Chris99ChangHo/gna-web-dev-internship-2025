@@ -1,4 +1,4 @@
-# ✅WordPress Standard: Understanding Hooks Concepts
+# WordPress Standard: Understanding Hooks Concepts
 
 This document provides a detailed explanation of the fundamental concepts behind Hooks in WordPress, focusing on their definition, origin, advantages, and general capabilities/limitations.
 
@@ -142,7 +142,7 @@ Hooks are the absolute core of WordPress's extensibility. The entire ecosystem o
 
 ---
 
-# ✅워드프레스 기준: 훅(Hooks) 개념과 활용
+# 워드프레스 기준: 훅(Hooks) 개념과 활용
 
 이 문서는 워드프레스 전반에 걸친 훅의 개념과 일반적인 활용에 초점을 맞추며, 각 주제를 더 자세하고 깊이 있게 설명합니다.
 
