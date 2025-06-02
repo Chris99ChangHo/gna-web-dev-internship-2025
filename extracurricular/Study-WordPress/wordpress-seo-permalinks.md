@@ -1,4 +1,4 @@
-# 🔗 Importance of Permalink Settings for SEO
+# Importance of Permalink Settings for SEO
 
 ## 1. What are Permalinks?
 
@@ -61,7 +61,7 @@ In WordPress, permalink settings can be easily changed via the `Settings > Perma
 
 ---
 
-# 🔗 SEO를 위한 퍼머링크(Permalinks) 설정의 중요성
+# SEO를 위한 퍼머링크(Permalinks) 설정의 중요성
 
 ## 1. 퍼머링크(Permalinks)란 무엇인가?
 
