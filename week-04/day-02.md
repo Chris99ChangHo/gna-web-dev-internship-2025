@@ -74,6 +74,10 @@ Identification and Resolution Summary of Custom Field Mismatch and PHP/HTML Comm
 -   [WP_User_Query Official Documentation](https://developer.wordpress.org/reference/classes/wp_user_query/)
 -   [WCK (WordPress Creation Kit) Plugin](https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/)
 
+### 🕸️ Docscraper Program Update (Web Scraping Development for LLM Learning Assistant)
+
+`Docscraper` development is currently underway. Following earlier feedback, I've shifted focus from indiscriminate data scraping to deeply considering **'how to select and structure meaningful data.'** This has led to a re-evaluation of the development direction, and for now, I'm prioritizing WordPress learning. Moving forward, I plan to enhance efficiency by focusing on goal-oriented data scraping rather than collecting data aimlessly.
+
 ----------
 
 # 📅 Day 02 (2025-06-03, 화)
@@ -151,3 +155,7 @@ WP_User_Query 및 관련 개념 실습 및 정리 사용자 데이터 검색을 
 -   [WP_Query 공식 문서](https://developer.wordpress.org/reference/classes/wp_query/)
 -   [WP_User_Query 공식 문서](https://developer.wordpress.org/reference/classes/wp_user_query/)
 -   [WCK (WordPress Creation Kit) 플러그인](https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/)
+
+### 🕸️ Docscraper 프로그램 진행 상황 (LLM 학습 도우미를 위한 웹 스크래핑 개발)
+
+`docscraper` 개발은 현재 진행 중입니다. 이전 피드백을 통해 무작정 데이터를 긁어모으기보다는 **'의미 있는 데이터 선별 및 구조화'**에 대한 깊은 고민을 시작했습니다. 이로 인해 개발 방향을 재고했으며, 당분간은 워드프레스 학습에 우선순위를 두려 합니다. 앞으로는 명확한 목표를 가진 데이터 스크래핑에 집중해 효율성을 높일 계획입니다.
