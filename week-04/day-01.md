@@ -31,17 +31,22 @@ In-depth Comparative Analysis Report on Major Social Media Automation and Design
 
 Identification and Resolution Summary of Sidebar Display Issue Encountered During functions.php Code Practice Although the sidebar was successfully registered in `functions.php` using the `register_sidebar` function, it didn't appear on the website's frontend. I confirmed that simply registering a sidebar doesn't make it appear; the `dynamic_sidebar()` function must be called in the theme template files. As it didn't align with the current layout design, the sidebar was intentionally registered but not displayed on the frontend, allowing for flexibility in future layout changes.
 
-### 🧠 Key Concepts Learned
+## 🧠 Key Concepts Learned
 
 Fundamental Understanding of WordPress Hooks: I understood the clear distinction between Action Hooks (executing code) and Filter Hooks (modifying and returning data). Importance of functions.php: Reconfirmed its role as a core file for extending and customizing WordPress theme functionalities. Standard Method for Script/Style Loading: Gained proficiency in using the `wp_enqueue_scripts` hook for safely and efficiently loading CSS and JS files. Efficiency of Debugging: Experienced how custom debug functions (`pprint_r`) can significantly reduce problem-solving time during development. AI-Based Tool Analysis and Strategy: Enhanced my ability to collect information using multiple AI models, analyze tool characteristics, and derive insights for practical application in social media strategies.
 
-### 💡 Practical Trial-and-Error and Tips
+## 💡 Practical Trial-and-Error and Tips
 
 Importance of Hook Priority: Confirmed through practice that controlling the execution order of functions hooked to the same hook via the `priority` argument in `add_action` and `add_filter` is crucial. Understanding Sidebar Display Conditions: Realized that simply registering a sidebar is not enough; calling `dynamic_sidebar()` in theme templates is essential for its display. Systematizing AI Tool Analysis: Learned the importance of a systematic approach to comparing various social media tools and selecting them based on business objectives.
 
-### 🔜 Next Steps
+## 🔜 Next Steps
 
 WordPress REST API Basics: I plan to learn about the concepts, endpoint structure, and authentication methods of the REST API, which is essential for utilizing WordPress data externally or fetching external data. Social Media Automation Tool Research Deep Dive: I will deepen my research for the social media automation tool assignment due next Wednesday to enhance the report's completeness.
+
+## 📚 References
+
+-   [WP_Hooks Official Documentation](https://developer.wordpress.org/reference/hooks/)
+-   [WC_User_Hooks Official Documentation](https://woocommerce.com/document/actions-and-filters/)
 
 ---
 
@@ -78,14 +83,19 @@ WordPress REST API Basics: I plan to learn about the concepts, endpoint structur
 
 functions.php 코드 실습 중 발생한 사이드바 미표시 문제 확인 및 결과 정리 functions.php에서 register_sidebar 함수로 사이드바를 성공적으로 등록했으나, 웹사이트 프론트엔드에 표시되지 않는 문제가 발생했습니다. 사이드바는 등록만으로는 화면에 나타나지 않으며, 테마 템플릿 파일에서 dynamic_sidebar() 함수를 호출해야 함을 확인했습니다. 현재 레이아웃 디자인 방향과 맞지 않아, 사이드바는 워드프레스에 등록만 하고 실제 화면에는 출력되지 않도록 의도적으로 처리했습니다. 이는 향후 레이아웃 변경 시 유연성을 확보하기 위함입니다.
 
-### 🧠 배운 핵심 개념
+## 🧠 배운 핵심 개념
 
 워드프레스 훅(Hooks)의 근본적인 이해: 액션 훅은 코드 실행, 필터 훅은 데이터 수정 및 반환이라는 명확한 차이를 이해했습니다. functions.php의 중요성: 워드프레스 테마 기능 확장 및 커스터마이징의 핵심 파일임을 재확인했습니다. 스크립트/스타일 로딩의 표준 방식: wp_enqueue_scripts 훅을 통한 안전하고 효율적인 파일 로딩 방법을 숙지했습니다. 디버깅의 효율성: 커스텀 디버그 함수(pprint_r)를 통해 개발 과정의 문제 해결 시간을 단축시키는 방법을 체감했습니다. AI 기반 툴의 분석 및 활용 전략: 여러 AI 모델을 활용한 정보 수집, 툴별 특성 분석, 그리고 실무 적용을 위한 인사이트 도출 능력을 향상시켰습니다.
 
-### 💡 실전 시행착오 및 팁
+## 💡 실전 시행착오 및 팁
 
 훅 사용 시 우선순위의 중요성: add_action 및 add_filter 함수의 우선순위 인자를 통해 함수 실행 순서를 제어하는 것이 중요함을 실습으로 확인했습니다. 사이드바 표시 조건의 이해: 사이드바는 등록만으로는 표시되지 않으며, dynamic_sidebar() 호출이 필수적임을 깨달았습니다. AI 툴 분석의 체계화: 다양한 소셜 미디어 툴들의 기능을 비교하고 비즈니스 목적에 맞게 선택하는 체계적인 접근법을 익혔습니다.
 
-### 🔜 이후 학습 방향
+## 🔜 이후 학습 방향
 
 WordPress REST API 기초 학습: 워드프레스 데이터를 외부에서 활용하거나 외부 데이터를 가져오는 데 필수적인 REST API의 개념, 엔드포인트 구조, 인증 방식 등에 대해 학습할 예정입니다. 소셜 미디어 자동화 툴 리서치 심화: 다음 주 수요일까지 제출해야 하는 소셜 미디어 자동화 툴 리서치 과제를 심화하여 보고서 완성도를 높입니다.
+
+## 📚 참고자료
+
+-   [WP_Hooks 공식 문서](https://developer.wordpress.org/reference/hooks/)
+-   [WC_Hooks 공식 문서](https://woocommerce.com/document/actions-and-filters/)
