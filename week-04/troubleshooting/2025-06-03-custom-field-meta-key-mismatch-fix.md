@@ -24,6 +24,7 @@ The core idea was to **verify the actual meta key stored in the database** and e
     
 3.  **Modify Code to Match:** I modified the `meta_key` in my PHP code to exactly match the stored slug:
     
+    
     ```php
     get_post_meta(get_the_ID(), 'release-year', true)
     
@@ -44,10 +45,11 @@ By ensuring the meta key in the code precisely matched the custom field slug, th
     1.  **Verify the custom field slug.**
     2.  **Check for exact consistency between the slug and the code's `meta_key`.**
     3.  **Use `print_r` to confirm actual data.** This systematic approach will allow for rapid problem resolution.
+-   **PHP and HTML Commenting Rules:** When mixing PHP and HTML in files, remember that **HTML comments (``) must reside outside of PHP code blocks (`<?php ... ?>`)**. If you need to comment within a PHP block, use PHP-specific comment syntax (`//` for single line or `/* ... */` for multi-line). Placing HTML comments directly inside PHP code without wrapping them in PHP comment syntax will lead to errors.
 
 ## 🗂️ Related Keywords
 
-`WordPress`, `Custom Fields`, `Meta Key`, `WCK`, `get_post_meta`, `Troubleshooting`, `PHP`, `Debugging`, `Slug Mismatch`
+`WordPress`, `Custom Fields`, `Meta Key`, `WCK`, `get_post_meta`, `Troubleshooting`, `PHP`, `Debugging`, `Slug Mismatch`, `HTML Comments`, `PHP Syntax`
 
 ----------
 
@@ -76,6 +78,8 @@ By ensuring the meta key in the code precisely matched the custom field slug, th
 2.  **비교 및 수정:** WCK에서 생성한 필드의 슬러그(예: `release-year`)와 코드에서 사용하고 있던 `meta_key`(예: `release_year`)를 비교했습니다.
     
 3.  **코드 수정:** PHP 코드에서 `meta_key`를 실제 저장된 슬러그와 동일하게 수정했습니다.
+    
+    
     ```php
     get_post_meta(get_the_ID(), 'release-year', true)
     
@@ -96,7 +100,8 @@ By ensuring the meta key in the code precisely matched the custom field slug, th
     1.  **커스텀 필드 슬러그 확인.**
     2.  **슬러그와 코드의 `meta_key`가 완전히 일치하는지 점검.**
     3.  **`print_r`로 실제 데이터를 확인.** 이러한 체계적인 접근 방식은 빠른 문제 해결을 가능하게 할 것입니다.
+-   **PHP와 HTML 주석 규칙**: PHP와 HTML을 함께 사용하는 파일에서는 **HTML 주석(``)은 PHP 코드 블록(`<?php ... ?>`) 바깥에만 존재해야 합니다**. PHP 블록 내에서 주석을 달아야 할 경우, PHP 전용 주석 문법(`//` 또는 `/* ... */`)을 사용해야 합니다. PHP 주석 문법 없이 HTML 주석을 PHP 코드 안에 직접 배치하면 오류가 발생합니다.
 
-## 🗂️ 관련 키워드
+## 🗂️ Related Keywords
 
-`WordPress`, `Custom Fields`, `Meta Key`, `WCK`, `get_post_meta`, `Troubleshooting`, `PHP`, `Debugging`, `Slug Mismatch`
+`WordPress`, `Custom Fields`, `Meta Key`, `WCK`, `get_post_meta`, `Troubleshooting`, `PHP`, `Debugging`, `Slug Mismatch`, `HTML Comments`, `PHP Syntax`
