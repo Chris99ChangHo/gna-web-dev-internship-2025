@@ -68,43 +68,14 @@ The **`WP_DEBUG_DISPLAY`** constant controls whether debugging messages are show
 
 Beyond the primary `WP_DEBUG` constants, WordPress offers other useful debugging constants for more specific needs.
 
-Constant Name
 
-Purpose
-
-Example Setting
-
-`WP_DEBUG`
-
-Overall ON/OFF switch for debug mode.
-
-`define('WP_DEBUG', true);`
-
-`WP_DEBUG_LOG`
-
-Saves errors to the `debug.log` file.
-
-`define('WP_DEBUG_LOG', true);`
-
-`WP_DEBUG_DISPLAY`
-
-Controls whether errors are displayed on the screen.
-
-`define('WP_DEBUG_DISPLAY', false);`
-
-`SCRIPT_DEBUG`
-
-Uses development versions of JS/CSS files (unminified) for easier debugging.
-
-`define('SCRIPT_DEBUG', true);`
-
-`SAVEQUERIES`
-
-Records database queries for performance analysis.
-
-`define('SAVEQUERIES', true);`
-
-Sheets로 내보내기
+| Constant Name    | Purpose                                                                                                                                      | Example Setting                  |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- |
+| `WP_DEBUG`         | Overall ON/OFF switch for debug mode.                                                                                                      | `define('WP_DEBUG', true);`     |
+| `WP_DEBUG_LOG`     | Saves errors to the `debug.log` file.                                                                                                      | `define('WP_DEBUG_LOG', true);` |
+| `WP_DEBUG_DISPLAY` | Controls whether errors are displayed on the screen.                                                                                         | `define('WP_DEBUG_DISPLAY', false);` |
+| `SCRIPT_DEBUG`     | Uses development versions of JS/CSS files (unminified) for easier debugging.                                                               | `define('SCRIPT_DEBUG', true);` |
+| `SAVEQUERIES`      | Records database queries for performance analysis.                                                                                           | `define('SAVEQUERIES', true);`  |
 
 -   **`SCRIPT_DEBUG`**: When enabled, WordPress will load the development versions of its core JavaScript and CSS files (unminified). This is incredibly helpful for debugging front-end issues related to WordPress's built-in scripts.
 -   **`SAVEQUERIES`**: This constant, when set to `true`, will save all database queries to an array. This array can then be accessed (e.g., global `$wpdb->queries`) to analyze query performance, identify slow queries, or understand how WordPress interacts with the database. It's particularly useful for optimizing database-heavy operations.
@@ -195,44 +166,14 @@ Integrating `WP_DEBUG` into your development workflow is key for efficient probl
 
 주요 `WP_DEBUG` 상수들 외에도 워드프레스는 보다 구체적인 목적을 위한 유용한 디버깅 상수들을 제공합니다.
 
-상수명
 
-용도
-
-설정 예시
-
-`WP_DEBUG`
-
-디버그 모드 전체 ON/OFF 스위치.
-
-`define('WP_DEBUG', true);`
-
-`WP_DEBUG_LOG`
-
-오류를 `debug.log` 파일에 저장합니다.
-
-`define('WP_DEBUG_LOG', true);`
-
-`WP_DEBUG_DISPLAY`
-
-오류가 화면에 표시될지 여부를 제어합니다.
-
-`define('WP_DEBUG_DISPLAY', false);`
-
-`SCRIPT_DEBUG`
-
-JS/CSS의 개발용(축소되지 않은) 파일을 사용하여 디버깅을 용이하게 합니다.
-
-`define('SCRIPT_DEBUG', true);`
-
-`SAVEQUERIES`
-
-데이터베이스 쿼리를 기록하여 성능 분석에 사용합니다.
-
-`define('SAVEQUERIES', true);`
-
-Sheets로 내보내기
-
+| 상수명             | 용도                                                                 | 설정 예시                    |
+| :----------------- | :------------------------------------------------------------------- | :-------------------------- |
+| `WP_DEBUG`         | 디버그 모드 전체 ON/OFF 스위치.                                      | `define('WP_DEBUG', true);` |
+| `WP_DEBUG_LOG`     | 오류를 `debug.log` 파일에 저장합니다.                              | `define('WP_DEBUG_LOG', true);` |
+| `WP_DEBUG_DISPLAY` | 오류가 화면에 표시될지 여부를 제어합니다.                            | `define('WP_DEBUG_DISPLAY', false);` |
+| `SCRIPT_DEBUG`     | JS/CSS의 개발용(축소되지 않은) 파일을 사용하여 디버깅을 용이하게 합니다. | `define('SCRIPT_DEBUG', true);` |
+| `SAVEQUERIES`      | 데이터베이스 쿼리를 기록하여 성능 분석에 사용합니다.                 | `define('SAVEQUERIES', true);` |
 -   **`SCRIPT_DEBUG`**: 이 상수를 활성화하면 워드프레스는 핵심 JavaScript 및 CSS 파일의 개발 버전(축소되지 않은 버전)을 로드합니다. 이는 워드프레스 내장 스크립트와 관련된 프론트엔드 문제를 디버깅하는 데 매우 유용합니다.
 -   **`SAVEQUERIES`**: 이 상수를 `true`로 설정하면 모든 데이터베이스 쿼리가 배열에 저장됩니다. 이 배열은 (예: 전역 변수 `$wpdb->queries`를 통해) 쿼리 성능을 분석하고, 느린 쿼리를 식별하거나, 워드프레스가 데이터베이스와 어떻게 상호 작용하는지 이해하는 데 사용될 수 있습니다. 특히 데이터베이스 작업이 많은 경우 성능 최적화에 매우 유용합니다.
 
