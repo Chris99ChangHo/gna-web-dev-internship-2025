@@ -94,7 +94,7 @@
 ## 🔜 Next Steps
 
 -   **WordPress REST API Basics:** I plan to learn about the concepts, endpoint structure, and authentication methods of the REST API, which is essential for utilizing WordPress data externally or fetching external data.
--   **Social Media Automation Tool Research Deep Dive:** I will deepen my research for the social media automation tool assignment due next Wednesday to enhance the report's completeness.
+-   **Social Media Automation Tool Research Deep Dive:** I will deepen my research for the social media automation tool assignment due tomorrow to enhance the report's completeness.
 
 ### 🕸️ Docscraper Program Update (Web Scraping Development for LLM Learning Assistant)
 
@@ -198,7 +198,7 @@
 ## 🔜 Next Steps
 
 -   **WordPress REST API 기초 학습:** 워드프레스 데이터를 외부에서 활용하거나 외부 데이터를 가져오는 데 필수적인 REST API의 개념, 엔드포인트 구조, 인증 방식 등에 대해 학습할 예정입니다.
--   **소셜 미디어 자동화 툴 리서치 심화:** 다음 주 수요일까지 제출해야 하는 소셜 미디어 자동화 툴 리서치 과제를 심화하여 보고서 완성도를 높일 계획입니다.
+-   **소셜 미디어 자동화 툴 리서치 심화:** 내일까지 제출해야 하는 소셜 미디어 자동화 툴 리서치 과제를 심화하여 보고서 완성도를 높일 계획입니다.
 
 ### 🕸️ Docscraper 프로그램 진행 상황 (LLM 학습 도우미를 위한 웹 스크래핑 개발)
 
