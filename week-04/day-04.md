@@ -65,10 +65,10 @@
 
 ## 🧠 Key Concepts Learned
 
--   **Expanded Development Process Understanding:** Through the development meeting, you re-evaluated the current progress and gained deeper insights into **the importance of practical customization experience** and real-world considerations like **legal risks associated with AI content usage**.
+-   **Expanded Development Process Understanding:** Through the development meeting and PPT presentation, you re-evaluated the current progress and gained deeper insights into the **importance of practical customization experience** and real-world considerations like **legal risks associated with AI content usage**.
 -   **Efficient Pagination Implementation:** You mastered a practical method for implementing pagination by accurately calculating the `offset` argument for `WP_User_Query` and **handling WordPress permalinks (`get_query_var('paged')`)**.
--   **AJAX-based Dynamic Content Loading:** By directly implementing the communication between JavaScript and PHP (`admin-ajax.php`), you gained practical experience in asynchronously loading and updating user lists, understanding the significance of a **seamless user experience without full page refreshes**.
--   **Client-Server Data Communication:** You practiced using key JavaScript and PHP functions essential for AJAX communication, such as `jQuery.serialize()`, `$.post()`, and `wp_localize_script()`, to exchange data between the client and server.
+-   **AJAX-based Dynamic Content Loading:** You directly implemented the communication between JavaScript and PHP (`admin-ajax.php`) to asynchronously load and update user lists, understanding the significance of a **seamless user experience without full page refreshes**, but **felt the need for further learning** in this area.
+-   **Client-Server Data Communication:** You practiced using key JavaScript and PHP functions essential for AJAX communication, such as `jQuery.serialize()`, `$.post()`, and `wp_localize_script()`, to exchange data between the client and server, but **felt the need to delve deeper into these concepts.**
 
 ## 💡 Practical Trial-and-Error and Tips
 
@@ -157,10 +157,10 @@
 
 ## 🧠 Key Concepts Learned
 
--   **개발 프로세스 이해 확장:** 개발 미팅을 통해 현재 진행 상황을 점검하고, **커스터마이즈 경험의 중요성**과 **AI 콘텐츠 활용 시 법적 리스크** 등 실무적 고려사항을 깊이 있게 인지했습니다.
+-   **개발 프로세스 이해 확장:** 개발 미팅과 PPT 발표를 통해 현재 진행 상황을 점검하고, **커스터마이즈 경험의 중요성**과 **AI 콘텐츠 활용 시 법적 리스크** 등 실무적 고려사항을 깊이 있게 인지했습니다.
 -   **효율적인 페이지네이션 구현:** `WP_User_Query`의 `offset` 인자를 정확히 계산하고 **워드프레스 퍼머링크(`get_query_var('paged')`)에 대응**하여 페이지네이션을 구현하는 실무적 방법을 체득했습니다.
--   **AJAX 기반 동적 콘텐츠 로딩:** JavaScript와 PHP(`admin-ajax.php`) 간의 통신을 통해 유저 리스트를 비동기적으로 로드하고 업데이트하는 과정을 직접 구현하며 **새로고침 없는 사용자 경험**의 중요성을 이해했습니다.
--   **클라이언트-서버 데이터 통신:** `jQuery.serialize()`, `$.post()`, `wp_localize_script()` 등 AJAX 통신에 필요한 핵심 JavaScript 및 PHP 함수들을 활용하여 데이터를 주고받는 방법을 실습했습니다.
+-   **AJAX 기반 동적 콘텐츠 로딩:** JavaScript와 PHP(`admin-ajax.php`) 간의 통신을 통해 유저 리스트를 비동기적으로 로드하고 업데이트하는 과정을 직접 구현하며 **새로고침 없는 사용자 경험**의 중요성을 이해했지만, **더 학습할 필요성을 느꼈습니다.**
+-   **클라이언트-서버 데이터 통신:** `jQuery.serialize()`, `$.post()`, `wp_localize_script()` 등 AJAX 통신에 필요한 핵심 JavaScript 및 PHP 함수들을 활용하여 데이터를 주고받는 방법을 실습했지만, 이 개념들에 대해 **더 깊이 학습할 필요성을 느꼈습니다.**
 
 ## 💡 Practical Trial-and-Error and Tips
 
