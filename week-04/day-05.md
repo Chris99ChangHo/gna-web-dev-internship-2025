@@ -2,7 +2,10 @@
 
 ## 🎓 Today's Work
 
-**📌 Started a 'Development News Archive' mini-project, incorporating feedback from the dev meeting.** **📌 Designed and implemented WordPress Custom Post Type (news), Custom Fields, and Custom Taxonomies.** **📌 Built homepage and news archive templates using Elementor (card-style lists, search bar, latest news).** **📌 Scraped and confirmed output of sample news data, then began developing the scraping code.**
+**📌 Started a 'Development News Archive' mini-project, incorporating feedback from the dev meeting.**   
+**📌 Designed and implemented WordPress Custom Post Type (news), Custom Fields, and Custom Taxonomies.**   
+**📌 Built homepage and news archive templates using Elementor (card-style lists, search bar, latest news).**   
+**📌 Scraped and confirmed output of sample news data, then began developing the scraping code.**  
 
 ### Detailed Activities
 
