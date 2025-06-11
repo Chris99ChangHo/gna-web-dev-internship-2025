@@ -1,6 +1,6 @@
 # 📅 Day 02 (2025-06-03, Tue)
 
-## 🎓 Today's Work
+## 🎓 What I Did Today
 
 **📌 Summary of a Full Cycle of WordPress Custom Development (CPT, Custom Fields, WP_Query).**   
 **📌 Practical Exercise and Summary of WP_User_Query and Related Concepts.**   
