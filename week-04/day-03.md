@@ -1,6 +1,6 @@
 # 📅 Day 03 (2025-06-04, Wed)
 
-## 🎓 Today's Work
+## 🎓 What I Did Today
 
 **📌 Emphasis on experiencing the full flow of practical WordPress development and problem-solving from the development meeting.**   
 **📌 Practical exercise on dummy user creation and user management features.**   
