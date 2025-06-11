@@ -1,7 +1,7 @@
 
 # 📅 Day 03 (2025-06-11, Wed)
 
-## 🎓 ## What I Did Today
+## 🎓 What I Did Today
 
 **📌 Completed the "Open-Source CMS vs. Web Builders" research and presentation materials.**  
 **📌 Discussed mini-project progress in the development meeting, focusing on a "Development News Hub" site.**  
