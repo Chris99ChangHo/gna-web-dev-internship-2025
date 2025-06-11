@@ -1,6 +1,6 @@
 # 📅 Day 01 (2025-06-02, Mon)
 
-## 🎓 Today's Work
+## 🎓 What I Did Today
 
 **📌 Summary of Practical Usage of WordPress Core Hooks and Hooks for Plugin Development.**  
 **📌 Practical Exercise and Summary of Hooks Utilized in WordPress `functions.php`.**  
