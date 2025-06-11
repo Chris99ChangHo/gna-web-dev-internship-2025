@@ -1,6 +1,6 @@
 # 📅 Day 04 (2025-06-05, Thu)
 
-## 🎓 Today's Work
+## 🎓 What I Did Today
 
 **📌 Reviewed current development processes and emphasized the importance of diverse customization experiences in the development meeting.**   
 **📌 Delivered a PPT presentation on social media auto-posting and design tools, discussing their practical applicability.**   
