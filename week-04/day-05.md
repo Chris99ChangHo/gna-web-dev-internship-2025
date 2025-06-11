@@ -1,6 +1,6 @@
 # 📅 Day 05 (2025-06-06, Fri)
 
-## 🎓 Today's Work
+## 🎓 What I Did Today
 
 **📌 Started a 'Development News Archive' mini-project, incorporating feedback from the dev meeting.**   
 **📌 Designed and implemented WordPress Custom Post Type (news), Custom Fields, and Custom Taxonomies.**   
