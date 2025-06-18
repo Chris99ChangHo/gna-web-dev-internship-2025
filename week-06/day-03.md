@@ -3,7 +3,8 @@
 ## 🎓 What I Did Today
 
 **📌 Participated in a development meeting and discussed Cron-related topics**   
-**📌 Improved Python scraping code: Implemented duplicate article skipping logic**   **📌 Removed the function for previewing scraped content in HTML and refactored related code**   
+**📌 Improved Python scraping code: Implemented duplicate article skipping logic**   
+**📌 Removed the function for previewing scraped content in HTML and refactored related code**   
 **📌 Attempted to implement DevNewsHub search functionality for Posts widget**  
 
 ### Detailed Activities
