@@ -2,14 +2,14 @@
 
 ## 🎓 What I Did Today
 
-**📌 Practiced Cron job and established an automation structure** 
-**📌 Explored directions for REST API utilization** 
-**📌 Gained experience in automated article collection and publishing using Python, WP REST API, and Cron** 
-**📌 Integrated Google Social Login with WordPress** 
-**📌 Prepared WordPress for external data integration via REST API** 
-**📌 Improved Login/Signup UI and troubleshooted related issues** 
-**📌 Adjusted DevNewsHub site layout and resolved search result display**
-**📌 Worked on Isaac Painting client site's font and mobile optimization**
+**📌 Practiced Cron job and established an automation structure**   
+**📌 Explored directions for REST API utilization**   
+**📌 Gained experience in automated article collection and publishing using Python, WP REST API, and Cron**   
+**📌 Integrated Google Social Login with WordPress**   
+**📌 Prepared WordPress for external data integration via REST API**   
+**📌 Improved Login/Signup UI and troubleshooted related issues**   
+**📌 Adjusted DevNewsHub site layout and resolved search result display**  
+**📌 Worked on Isaac Painting client site's font and mobile optimization**  
 
 ### Detailed Activities
 
@@ -98,8 +98,8 @@
 **📌 워드프레스 구글 소셜 로그인 연동** 
 **📌 REST API를 활용한 워드프레스 외부 데이터 연동 준비** 
 **📌 로그인/회원가입 UI 개선 및 관련 문제 해결** 
-**📌 DevNewsHub 사이트 레이아웃 조정 및 검색 결과 표시 문제 해결**
-**📌 Isaac Painting 클라이언트 사이트 폰트 및 모바일 최적화 작업 진행**
+**📌 DevNewsHub 사이트 레이아웃 조정 및 검색 결과 표시 문제 해결**  
+**📌 Isaac Painting 클라이언트 사이트 폰트 및 모바일 최적화 작업 진행**  
 
 ### 상세 활영
 
