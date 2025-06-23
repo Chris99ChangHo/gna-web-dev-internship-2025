@@ -17,7 +17,7 @@ Here you'll find organized folders detailing each week's progress, alongside ded
 
     이 폴더는 **웹 개발 역량을 확장**하기 위한 저의 전용 공간입니다. 일상적인 업무 외에도 **컴퓨터 과학(CS)** 및 **소프트웨어 엔지니어링(SW)** 의 기본 원리를 깊이 탐구하며, **WordPress, Elementor, WooCommerce 플러그인 활용**을 포함한 웹 개발 실무에 집중합니다. 또한, **반응형 웹 디자인**, **기능 테스트 방법론**, 그리고 견고한 웹 솔루션을 구축하는 데 필요한 다양한 **플랫폼, 도구 및 프로그래밍 언어**를 탐구합니다. 이 섹션은 전반적인 기술 발전에 대한 저의 헌신을 보여줍니다.
 
-* **[LinkedIn Portfolio Prep / 링크드인 포트폴리오 준비](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/extracurricular/Study-Elementor)**:
+* **[LinkedIn Portfolio Prep / 링크드인 포트폴리오 준비](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/extracurricular/Study-linkedin)**:
     This space is dedicated to curating materials and ideas for effectively showcasing my development experience and capabilities on my LinkedIn profile and portfolio.
 
     제 개발 경험과 역량을 효과적으로 보여줄 수 있도록 LinkedIn 프로필 및 포트폴리오를 구성하기 위한 자료와 아이디어를 모아둔 공간입니다.
@@ -55,7 +55,7 @@ Here you'll find organized folders detailing each week's progress, alongside ded
 * **[Week 07 Folder / 7주차 폴더](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-07)**:
     * `day01.md` ~ `day05.md`: Daily progress and task records for the week.
     * `reflection.md`: Reflection and key learnings from Week 07.
-    * **[Troubleshooting](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-06/troubleshooting)**: Documentation of problem-solving processes and insights gained while developing during Week 07.
+    * **[Troubleshooting](https://github.com/Chris99ChangHo/gna-web-dev-internship-2025/tree/main/week-07/troubleshooting)**: Documentation of problem-solving processes and insights gained while developing during Week 07.
     
 
 * More Weeks Coming Soon! / 추가 예정!
