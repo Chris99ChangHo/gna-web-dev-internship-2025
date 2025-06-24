@@ -171,7 +171,7 @@ define( 'WP_DEBUG_DISPLAY', false );// 화면에 오류 표시 안 함 (운영 �
 (`debug.log`는 `wp-content/debug.log`에 생성됩니다. `error_log`는 `WP_DEBUG_LOG`가 `true`일 때 서버의 PHP 오류 로그 위치(종종 `php.ini` 또는 서버별 설정에서 구성)를 확인해야 합니다.)
     
 
-## 🔜 Next Steps
+## 🔜 이후 학습 방향
 
 이제 중요한 사전 작업들이 성공적으로 마무리되었으므로, 조회수(인기순) 뉴스 기능 구현으로 초점을 전환합니다.
 
