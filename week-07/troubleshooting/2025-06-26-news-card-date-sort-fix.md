@@ -1,8 +1,3 @@
-
-확실하게 정리된 `fix` 문제 해결 보고서를 영문과 국문 마크다운으로 완성해 드릴게요. 요청하신 형식과 상세 지침을 모두 반영했습니다.
-
-----------
-
 # ✅ Fix: News Card Date Display and Newest Sort Functionality Issues
 
 ## 🔍 Problem Situation
