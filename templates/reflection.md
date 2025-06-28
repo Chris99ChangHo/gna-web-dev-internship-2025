@@ -3,8 +3,8 @@
 
 ## ✅ Key Tasks This Week
 
-**📌 [Core Task 1: Summarize a major achievement or completed task concisely. Use action verbs.]**   
-**📌 [Core Task 2: Summarize another significant achievement or completed task.]**   
+**📌 [Core Task 1: Summarize a major achievement or completed task concisely. Use action verbs.]**    
+**📌 [Core Task 2: Summarize another significant achievement or completed task.]**     
 **(Add more 📌 items for key tasks as needed. Focus on 2-3 most impactful items for the week.)**  
 
 ## 🧠 What I Learned
@@ -35,7 +35,7 @@
 ## ✅ 이번 주 주요 작업
 
 **📌 [핵심 작업 1: 한 주 동안의 주요 성과나 완료된 작업을 간결하게 요약. 동사 위주로 서술.]**   
-**📌 [핵심 작업 2: 또 다른 중요한 성과나 완료된 작업 요약.]**   
+**📌 [핵심 작업 2: 또 다른 중요한 성과나 완료된 작업 요약.]**    
 **(필요시 📌 항목 추가. 한 주간 가장 영향력 있는 2-3가지 주요 작업에 집중.)**  
 
 ## 🧠 배운 핵심 개념
