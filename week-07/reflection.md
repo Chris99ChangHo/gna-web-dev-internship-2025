@@ -6,7 +6,7 @@
 📌 **DevNewsHub mini-project data integrity and feature enhancement:** * Implemented "actual published date" custom field (`news-published-date`) to ensure data accuracy for automated news uploads and improve WP admin convenience. * Developed a popular news page based on view counts with yearly filtering, and enhanced existing news search functionality.   
 📌 **WordPress theme code modularization and structure improvement:** Refactored `functions.php` into functional segments, enhancing code maintainability and readability.   
 📌 **Initial development of React Native (Expo) mobile news app:** Successfully integrated with the WordPress REST API to fetch and display news data in a basic mobile application.   
-📌 **Company Korean website AI rewriting and comparison tool development:** Created a Python script using `pandas` and `difflib` to visually compare original Korean website content with AI-rewritten versions.   
+📌 **Conducted AI rewriting analysis and reporting for company's Korean website content:** Leveraged Python (pandas, difflib) to generate visual HTML comparisons of AI-rewritten versions against the original content, supporting analysis and reporting.
 📌 **Improved UI stability with JavaScript:** Implemented search input field reset functionality and applied event delegation for dynamic elements in the news search UI.  
 
 ## 🧠 What I Learned
@@ -87,7 +87,7 @@
 📌 **DevNewsHub 미니 프로젝트 데이터 정합성 및 기능 개선:** * '실제 발행일' 커스텀 필드(`news-published-date`)를 구현하여 자동화된 뉴스 데이터의 정확성을 확보하고 워드프레스 관리 편의성을 높였습니다. * 조회수 기반 인기 뉴스 페이지를 구현하고 연도별 필터링 기능을 추가했으며, 기존 뉴스 검색 기능을 개선했습니다.   
 📌 **워드프레스 테마 코드 모듈화 및 구조 개선:** `functions.php` 파일을 기능별로 분리하여 코드 유지보수성 및 가독성을 향상시켰습니다.   
 📌 **React Native (Expo) 기반 모바일 뉴스 앱 초기 개발 착수:** 워드프레스 REST API와 연동하여 뉴스 데이터를 모바일 앱에 가져와 표시하는 기본 구조를 성공적으로 구현했습니다.   
-📌 **회사 국문 웹사이트 AI 리라이팅 및 비교 도구 개발:** `pandas`와 `difflib` 라이브러리를 활용하여 원본 국문 콘텐츠와 AI 리라이팅 버전을 시각적으로 비교하는 파이썬 스크립트를 개발했습니다.   
+📌 **회사 국문 웹사이트 AI 리라이팅 분석 및 보고 지원:** pandas와 difflib 라이브러리를 활용하여 AI 리라이팅 결과물과 원본 콘텐츠를 시각적으로 비교하는 HTML 파일을 생성하여 분석 및 보고를 지원했습니다.
 📌 **JavaScript UI 로직 개선 및 안정화:** 뉴스 검색 UI에서 검색 입력 필드 초기화 기능을 구현하고, 동적 요소에 대한 이벤트 위임 방식을 적용하여 UI 안정성을 높였습니다.  
 
 ## 🧠 배운 핵심 개념
