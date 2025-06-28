@@ -149,7 +149,7 @@ fetch('https://dev.gnasolutions.com.au/intern02/wp-json/wp/v2/news?_embed&per_pa
 
 ----------
 
-# 📅 4일차 (2025-06-26, )
+# 📅 4일차 (2025-06-26, 목)
 
 ## 🎓 오늘 한 일
 
