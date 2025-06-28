@@ -1,4 +1,4 @@
-# 📝 Week 6 Reflection (2025.06.16 ~ 06.20)
+# 📝 Week 06 Reflection (2025.06.16 ~ 06.20)
 
 ## ✅ Key Tasks This Week
 
