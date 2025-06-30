@@ -130,7 +130,7 @@ fetch('https://dev.gnasolutions.com.au/intern02/wp-json/wp/v2/news?_embed&per_pa
 -   **Systematic Debugging Approach:** Reconfirmed the effectiveness of recognizing and resolving issues step-by-step by utilizing `error_log` within the code, checking server-side `debug.log` and `error.log` files, and inspecting content in browser developer tools (console, network tab, etc.).
 -   **Proficiency in Development Tools:** Understood that specialized debugging tools like React DevTools are essential for understanding the state and prop flow of components, independent of app execution, and that proficiency in their use is crucial.
 
-## 🔜 Future Learning Directions
+## 🔜 Next Steps
 
 -   **Most Pressing Issue Resolution:** Prioritize resolving the JSON response issues of the view-count-based news endpoint and CSS non-application problems, as well as the comment count endpoint issue related to the existing `DevNewsHub` WordPress theme. This includes gathering browser developer tool information and re-verifying file paths as requested by the senior developer.
 -   **REST API and Thumbnail Logic Improvement:** Once JSON response issues are resolved, optimize the yearly filtering and view count sorting logic for the `popular-news` endpoint, and complete the work to ensure the `news-search-thumb` (thumbnail size) is correctly applied across all popular news sections.
