@@ -45,7 +45,7 @@
 -   **WordPress Image Size Application Issues:** If custom thumbnail sizes defined with `add_image_size` are not loading correctly on the front end, it's crucial to explicitly verify if the API response provides the correct URL for that size and if the front end is accurately utilizing that URL.
 -   **Systematic Debugging Approach:** Reconfirmed the effectiveness of recognizing and resolving issues step-by-step by utilizing `error_log` within the code, checking server-side `debug.log` and `error.log` files, and inspecting content in browser developer tools (console, network tab, etc.).
 
-## 🔜 Future Learning Directions
+## 🔜 Next Steps
 
 -   **Most Pressing Issue Resolution:** Prioritize resolving the JSON response issues and CSS non-application problems of the `DevNewsHub` view count-based news endpoint. This includes gathering browser developer tool information and re-verifying file paths as requested by the senior developer.
 -   **REST API and Thumbnail Logic Improvement:** Once JSON response issues are resolved, optimize the yearly filtering and view count sorting logic for the `popular-news` endpoint, and complete the work to ensure the `news-search-thumb` (thumbnail size) is correctly applied across all popular news sections.
