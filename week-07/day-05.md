@@ -54,7 +54,7 @@
 -   **Necessity of Comparing Text Styles Across AI Models:** Directly observed that various AI models (GPT, Claude, Gemini, ClovaX) rewrite the same original text with different nuances and writing styles. Visually comparing these differences using the HTML comparison tool provided valuable insights for selecting the most suitable AI model for specific purposes (e.g., marketing, technical documentation, friendly tone).
     
 
-## 🔜 Future Learning Directions
+## 🔜 Next Steps
 
 -   **Commence React App Feature Implementation:** With WordPress backend integration confirmed, the next step is to move into the phase of developing and implementing core functionalities in the actual React app.
 -   **Deep Link Technology Research:** Intend to conduct in-depth research into deep link technology for seamless connections from web to app, and explore ways to apply it to the React app (referencing Facebook's case studies).
