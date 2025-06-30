@@ -2,12 +2,12 @@
 
 ## 🎓 What I Did Today
 
-**📌 Participated in the morning development meeting:** Shared DevNewsHub mini-project progress, discussed the CEO's directed task status, and planned future development.
-**📌 Initiated DevNewsHub mini-project search UI improvements and custom publish date sorting attempts.** 
-**📌 Implemented a custom news carousel using PHP shortcodes in WordPress to overcome Elementor widget limitations, adjusting its layout.** 
-**📌 Set up the React Native/Expo development environment, resolved various errors, and implemented core app features like news listing, HTML entity decoding, and Text-to-Speech (TTS).** 
-**📌 Attempted to integrate React Navigation but identified nesting errors, leading to a re-evaluation of its necessity for the current project scope.** 
-**📌 Continued improving awkward Korean translations for the company's English website, reporting results and awaiting further instructions.**
+**📌 Participated in the morning development meeting: Shared DevNewsHub mini-project progress, discussed the CEO's directed task status, and planned future development.**  
+**📌 Initiated DevNewsHub mini-project search UI improvements and custom publish date sorting attempts.**  
+**📌 Implemented a custom news carousel using PHP shortcodes in WordPress to overcome Elementor widget limitations, adjusting its layout.**  
+**📌 Set up the React Native/Expo development environment, resolved various errors, and implemented core app features like news listing, HTML entity decoding, and Text-to-Speech (TTS).**  
+**📌 Attempted to integrate React Navigation but identified nesting errors, leading to a re-evaluation of its necessity for the current project scope.**  
+**📌 Continued improving awkward Korean translations for the company's English website, reporting results and awaiting further instructions.** 
 
 ### Detailed Activities
 
@@ -149,19 +149,18 @@
     
 -   **Learning Text Translation/NLP Improvement Techniques:** In relation to the company's Korean website translation task, I will study techniques to overcome the limitations of AI-based translation and generate more natural translations (e.g., fine-tuning language models).
     
-
 ----------
 
 # 📅 1일차 (2025-06-30, 월)
 
 ## 🎓오늘 한 일
 
-**📌 오전 개발 미팅에 참여하여 DevNewsHub 미니 프로젝트 진행 상황과 사장님 지시 업무 현황 및 향후 계획을 공유하고 논의했습니다.** 
-**📌 DevNewsHub 미니 프로젝트의 검색 UI 개선 작업을 진행했으며, 뉴스 발행일 커스텀 필드 정렬을 시도했습니다.** 
-**📌 워드프레스에서 Elementor 위젯의 한계로 PHP 숏코드를 활용하여 최신 뉴스 캐러셀을 직접 구현하고 레이아웃을 조정했습니다.** 
-**📌 React Native/Expo 개발 환경을 세팅하고 다양한 오류를 해결했으며, 뉴스 리스트, HTML 엔티티 디코딩, TTS(뉴스 읽어주기) 기능 등 핵심 앱 기능을 구현했습니다.** 
-**📌 React Navigation 도입을 시도했으나 중첩 오류 등 문제점을 파악하고 현재 프로젝트 범위에 대한 내비게이션 필요성을 재검토 중입니다.** 
-**📌 회사 영문 웹사이트의 어색한 국문 번역 개선 작업을 진행하고 다음 지시를 기다리고 있습니다.**
+**📌 오전 개발 미팅에 참여하여 DevNewsHub 미니 프로젝트 진행 상황과 사장님 지시 업무 현황 및 향후 계획을 공유하고 논의했습니다.**  
+**📌 DevNewsHub 미니 프로젝트의 검색 UI 개선 작업을 진행했으며, 뉴스 발행일 커스텀 필드 정렬을 시도했습니다.**  
+**📌 워드프레스에서 Elementor 위젯의 한계로 PHP 숏코드를 활용하여 최신 뉴스 캐러셀을 직접 구현하고 레이아웃을 조정했습니다.**  
+**📌 React Native/Expo 개발 환경을 세팅하고 다양한 오류를 해결했으며, 뉴스 리스트, HTML 엔티티 디코딩, TTS(뉴스 읽어주기) 기능 등 핵심 앱 기능을 구현했습니다.**  
+**📌 React Navigation 도입을 시도했으나 중첩 오류 등 문제점을 파악하고 현재 프로젝트 범위에 대한 내비게이션 필요성을 재검토 중입니다.**  
+**📌 회사 영문 웹사이트의 어색한 국문 번역 개선 작업을 진행하고 다음 지시를 기다리고 있습니다.**  
 
 ### Detailed Activities
 
@@ -263,7 +262,7 @@
     -   **현재 판단:** 내비게이션 도입의 필요성에 대해 아직 확실한 결론을 내리지 못했으며, 현재 프로젝트 범위와 복잡도를 고려하여 추가적인 검토가 필요하다고 판단하고 있습니다.
         
 
-## 🧠배운 핵심 개념
+## 🧠 배운 핵심 개념
 
 -   **워드프레스 `WP_Query` 커스터마이징:** Elementor 위젯의 한계를 넘어 커스텀 필드를 기준으로 정렬하는 등 `WP_Query`를 직접 제어하는 방법의 중요성을 배웠습니다.
     
@@ -278,7 +277,7 @@
 -   **React Navigation 중첩 오류 및 사용 주의점:** `NavigationContainer`가 앱 전체에서 한 번만 사용되어야 하며, 특히 Expo Router와 같은 프레임워크 자체 라우터와 함께 사용할 때 중복될 수 있음을 파악하고 관련 오류 해결 방안을 습득했습니다.
     
 
-## 💡실전 시행착오 및 팁
+## 💡 실전 시행착오 및 팁
 
 -   **Elementor 위젯의 한계 극복:** Elementor 위젯이 제공하지 않는 섬세한 데이터 정렬이나 커스텀 기능이 필요할 경우, 직접 PHP 숏코드를 작성하여 HTML 위젯에 삽입하는 방식이 훨씬 유연하고 강력한 제어를 제공함을 실감했습니다.
     
