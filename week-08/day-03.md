@@ -5,6 +5,7 @@
 **📌 Shared the near-completion status of the DevNewsHub mini-project during the morning development meeting.**  
 **📌 Received a new task: implementing a one-page client website, in addition to the previously discussed product data insertion task.**  
 **📌 Successfully completed the entire implementation of a new client one-page site from scratch, directly from design drafts and media assets.**  
+ㄴ **[Client Site Public Domain - To be updated upon publishing]** 내용 추가
 **📌 This was my first experience independently developing a new client site from zero-base design to full implementation.**  
 **📌 Completed the first phase of responsive optimization for tablet and mobile environments for the new client site.**  
 **📌 Received initial confirmation from the designer and senior developer for the new site, with plans for revisions and finalization.**  
@@ -52,6 +53,7 @@
 **📌 오전 개발 미팅에서 DevNewsHub 미니 프로젝트의 거의 완성 단계임을 보고했습니다.**   
 **📌 어제 논의된 상품 데이터 삽입 업무 외에, 원페이지 클라이언트 사이트 구현이라는 새로운 업무를 배정받았습니다.**   
 **📌 디자인 초안과 미디어 자료를 받아 클라이언트 원페이지 사이트를 처음부터 직접 구현하는 작업을 완료했습니다.**  
+ㄴ **[Client Site Public Domain - To be updated upon publishing]** 내용 추가
 **📌 신규 클라이언트 사이트를 전체 설계부터 구현까지 단독으로 경험한 첫 사례입니다.**  
 **📌 디자이너와 선임 개발자로부터 1차 컨펌을 받았으며, 피드백에 따라 수정 및 마무리 작업을 진행할 예정입니다.**  
 
@@ -66,7 +68,7 @@
 **2. 클라이언트 원페이지 웹사이트 구현:** 새로 배정받은 클라이언트 웹사이트 구현 업무에 하루 종일 집중하여 성공적으로 완료했습니다.
 
 -   **처음부터 직접 구현:** 이번 작업은 디자인 초안과 미디어 요소를 처음부터 받아 직접 구현한 첫 경험이었습니다. 기존 마이그레이션 작업과 달리, 모든 것을 처음부터 구축하면서 귀중한 학습 경험을 얻었습니다.
--   **프로젝트 URL:** 완성된 웹사이트는 [https://dev.gnasolutions.com.au/kisasikdang](https://dev.gnasolutions.com.au/kisasikdang) 주소에서 확인할 수 있습니다.
+-   **프로젝트 URL:** 완성된 웹사이트는 **[Client Site Public Domain - To be updated upon publishing]** 주소에서 확인할 수 있습니다.
 -   **반응형 웹 디자인:** **반응형 웹 디자인**에 중점을 두었으며, 1차적으로 **태블릿 및 모바일 최적화까지 완료**했습니다.
 -   **1차 컨펌 및 다음 단계:** 구현 후 디자이너와 선임 개발자로부터 컨펌을 받았습니다. 받은 피드백에 따라 수정 또는 마무리 작업을 진행할 예정입니다.
 
