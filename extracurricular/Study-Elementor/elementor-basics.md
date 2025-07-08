@@ -32,7 +32,9 @@
 
 -   **Editor Interface:** The Elementor editor is broadly divided into two parts: a sidebar on the left containing the widgets panel and settings panels (Content, Style, Advanced), and a live preview area on the right that displays the actual web page in real-time.
     
-![image](https://github.com/user-attachments/assets/32f1af12-afce-452d-bc96-b3c5ce8fa0d5)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/32f1af12-afce-452d-bc96-b3c5ce8fa0d5" alt="Elementor Editor Interface Screenshot" width="550">
+</div>
     
 -   **Sections, Columns, and Widgets Hierarchy:** Elementor operates by dividing pages into **Sections**, adding **Columns** within each section, and then placing **Widgets** inside these columns.
     
@@ -173,7 +175,9 @@ For your next steps, we strongly recommend you **install and use Elementor in pr
 
 -   **편집기 인터페이스:** Elementor 편집기는 크게 두 부분으로 나뉩니다. 왼쪽에는 위젯 패널과 설정 패널(콘텐츠, 스타일, 고급)이 있고, 오른쪽에는 실제 웹 페이지를 실시간으로 보여주는 미리보기 영역이 있습니다.
     
-![image](https://github.com/user-attachments/assets/6a9986bd-dda6-4191-9592-87bd4853a817)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/32f1af12-afce-452d-bc96-b3c5ce8fa0d5" alt="Elementor Editor Interface Screenshot" width="550">
+</div>
     
 -   **섹션, 열, 위젯 계층 구조:** Elementor는 페이지를 **섹션(Sections)**으로 나누고, 각 섹션 안에 **열(Columns)**을 추가하며, 이 열 안에 **위젯(Widgets)**을 배치하는 방식으로 작동합니다.
     
