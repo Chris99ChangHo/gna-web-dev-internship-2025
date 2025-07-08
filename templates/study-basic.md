@@ -124,7 +124,7 @@ Mastering [Topic] requires consistent learning and practice. The following resou
 
 🗂 **Related Keywords**
 
-[Keyword 1], [Keyword 2], [Keyword 3], [Keyword 4], [Keyword 5]
+`[Keyword 1]`, `[Keyword 2]`, `[Keyword 3]`, `[Keyword 4]`, `[Keyword 5]`
 
 ## Conclusion and Next Steps 🚀
 
@@ -260,7 +260,7 @@ For your next steps, we recommend [recommended learning or practice direction] t
 
 🗂 **관련 키워드**
 
-[키워드 1], [키워드 2], [키워드 3], [키워드 4], [키워드 5]
+`[키워드 1]`, `[키워드 2]`, `[키워드 3]`, `[키워드 4]`, `[키워드 5]`
 
 ## 결론 및 다음 단계 🚀
 
