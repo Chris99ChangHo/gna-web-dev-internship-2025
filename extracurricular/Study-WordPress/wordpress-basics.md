@@ -171,7 +171,7 @@ Mastering **WordPress** involves understanding both its user-friendly interface 
 
 🗂 **Related Keywords**
 
-CMS, Blogging, Web Publishing, Themes, Plugins, PHP, MySQL, WooCommerce, Website Development, Open Source, Dashboard, Gutenberg, SEO, Content Management, Blogging Platform
+`CMS`, `Blogging`, `Web Publishing`, `Themes`, `Plugins`, `PHP`, `MySQL`, `WooCommerce`, `Website Development`, `Open Source`, `Dashboard`, `Gutenberg`, `SEO`, `Content Management`, `Blogging Platform`
 
 ----------
 
@@ -356,7 +356,7 @@ For your next steps, we strongly recommend you **install WordPress locally** to 
 
 🗂 **관련 키워드**
 
-CMS, 블로깅, 웹 발행, 테마, 플러그인, PHP, MySQL, WooCommerce, 웹사이트 개발, 오픈 소스, 대시보드, 구텐베르크, SEO, 콘텐츠 관리, 블로깅 플랫폼
+`CMS`, `블로깅`, `웹 발행`, `테마`, `플러그인`, `PHP`, `MySQL`, `우커머스`, `웹사이트 개발`, `오픈 소스`, `대시보드`, `구텐베르크`, `SEO`, `콘텐츠 관리`, `블로깅 플랫폼`
 
 ----------
 
