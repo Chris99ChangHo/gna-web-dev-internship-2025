@@ -156,7 +156,7 @@ Mastering **Shopify** involves understanding both the merchant-facing platform a
 
 🗂 **Related Keywords**
 
-E-commerce, Online Store, Merchant, SaaS, Liquid, Theme Development, App Development, Shopify Admin, Shopify API, Shopify CLI, Payments, Marketing, Inventory Management, Storefront, Headless Commerce
+`E-commerce`, `Online Store`, `Merchant`, `SaaS`, `Liquid`, `Theme Development`, `App Development`, `Shopify Admin`, `Shopify API`, `Shopify CLI`, `Payments`, `Marketing`, `Inventory Management`, `Storefront`, `Headless Commerce`
 
 ----------
 
@@ -326,7 +326,7 @@ For your next steps, we strongly recommend you **create a development store** vi
 
 🗂 **관련 키워드**
 
-전자상거래, 온라인 상점, 판매자, SaaS, Liquid, 테마 개발, 앱 개발, Shopify 관리자, Shopify API, Shopify CLI, 결제, 마케팅, 재고 관리, 스토어프론트, 헤드리스 커머스
+`전자상거래`, `온라인 상점`, `판매자`, `SaaS`, `Liquid`, `테마 개발`, `앱 개발`, `Shopify 관리자`, `Shopify API`, `Shopify CLI`, `결제`, `마케팅`, `재고 관리`, `스토어프론트`, `헤드리스 커머스`
 
 ----------
 
