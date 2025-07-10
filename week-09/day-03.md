@@ -2,7 +2,7 @@
 
 ## 🎓 What I Did Today
 
-**📌 Participated in the morning development meeting, reporting progress on report automation (GA4 and SERanking API integration) and receiving important feedback on Melbourne Market product migration.**   
+**📌 Participated in the morning development meeting, reporting progress on report automation (GA4 and SERanking API integration) and receiving important feedback on Melbourne Market product migration.**    
 **📌 Focused all day on researching and preparing the presentation (PPT) on "The Evolution of Hacking, Scams, and Spamming Using AI — and Its Impact on Server Security."**   
 **📌 Identified a potential issue with Wix elements in Melbourne Market product HTML and decided on a solution to remove all Wix-related tags.**  
 
@@ -18,7 +18,7 @@
         
     -   Identified a potential error in the **SERanking API** integration code that would require future review.
         
-    -   The manager advised me to prioritize preparing for tomorrow's research presentation and to report any persistent SERanking issues after the presentation.
+    -   The development lead advised me to prioritize preparing for tomorrow's research presentation and to report any persistent SERanking issues after the presentation.
         
 -   **Melbourne Market Product Information Migration Feedback:**
     
@@ -70,7 +70,7 @@
 -   **Presentation Preparation:** I'll finalize the presentation for "The Evolution of Hacking, Scams, and Spamming Using AI — and Its Impact on Server Security," scheduled for tomorrow (July 11).
     
 -   **Previous Presentation Revision:** I'll revise and improve the "Open-Source CMS vs. Web Builders" presentation based on the manager's feedback.
-
+    
 ----------
 
 # 📅 3일차 (2025-07-09, 수)
@@ -93,7 +93,7 @@
         
     -   **SERanking API**의 경우, 코드를 불러오는 부분에서 오류 가능성이 발견되어 추후 코드 점검이 필요하다고 보고했습니다.
         
-    -   매니저님은 당장 내일 리서치 발표가 우선이므로 발표 준비에 집중하고, SERanking 연동 문제는 발표 이후에도 지속되면 공유해 달라고 당부했습니다.
+    -   개발 선임은 당장 내일 리서치 발표가 우선이므로 발표 준비에 집중하고, SERanking 연동 문제는 발표 이후에도 지속되면 공유해 달라고 당부했습니다.
         
 -   **멜번마켓 상품정보 마이그레이션 피드백:**
     
@@ -117,6 +117,7 @@
 -   **오늘 진행 내용:** 하루 종일 "AI를 활용한 해킹, 스캠, 스팸의 진화 — 그리고 서버 보안에 미치는 영향" 주제로 심층 리서치를 진행하고 관련 내용을 바탕으로 발표 자료(PPT)를 제작했습니다.
     
 -   **향후 계획:** 매니저님 피드백을 바탕으로 이전 발표 자료 수정 및 보완 작업도 병행할 예정입니다.
+    
 
 ## 🧠 배운 핵심 개념
 
@@ -127,6 +128,7 @@
 -   **개발 우선순위 관리:** 당면한 발표 준비와 같은 급한 일정과 개발 이슈(SERanking API 문제) 사이에서 **현실적인 우선순위를 설정하고 유연하게 대처**하는 것이 중요함을 다시 한번 인지했습니다.
     
 -   **피드백을 통한 지속적인 개선:** 이전 발표 자료에 대한 피드백을 통해 **지속적인 학습과 개선의 기회**를 얻을 수 있음을 확인했습니다.
+    
 
 ## 💡 실전 시행착오 및 팁
 
@@ -135,6 +137,7 @@
 -   **API 초기 연동 후 즉각적인 핵심 지표 검증:** 파이프라인을 구축한 후에는 GA4 ID가 정확히 넘어오는지와 같이 **가장 중요한 데이터 흐름부터 먼저 검증**하여 초기 단계의 오류를 빠르게 발견하고 수정하는 것이 효율적입니다.
     
 -   **긴급 업무와 개발 업무의 균형:** 발표 준비와 같이 긴급한 업무가 발생했을 때, 현재 진행 중인 개발 문제에 대한 미련을 두기보다 **우선순위를 명확히 하고 잠시 내려놓을 줄 아는 유연성**이 필요합니다.
+    
 
 ## 🔜 이후 학습 방향
 
