@@ -2,10 +2,10 @@
 
 ## 🎓 What I Did Today
 
-**📌 Participated in the morning development meeting, reporting on the progress of the report project and stating the plan to prioritize Wix element removal in Melbourne Market after presentation prep.**   
+**📌 Participated in the morning development meeting, reporting on the progress of the report project and stating the plan to prioritize Wix element removal in Melbourne Market after presentation prep.**     
 **📌 Confirmed task priorities with the development lead: PPT presentation → Melbourne Market migration → Report project.**   
-**📌 In the morning, I completed the originally scheduled PPT, then revised the 'Open-Source CMS vs. Web Builders Script: Comparative Analysis & Practical AI Integration' presentation after a schedule change.**   
-**📌 In the afternoon, I modified and immediately began executing the Melbourne Market product information migration code, reaching 68% completion before pausing the process to resume and finalize it the following day.**  
+**📌 In the morning, I completed the originally scheduled PPT, then revised the 'Open-Source CMS vs. Web Builders Script: Comparative Analysis & Practical AI Integration' presentation after a schedule change.**     
+**📌 In the afternoon, I modified and immediately began executing the Melbourne Market product information migration code, reaching 68% completion before pausing the process to resume and finalize it the following day.**    
 
 ### Detailed Activities
 
@@ -89,10 +89,10 @@
 
 ## 🎓 오늘 한 일
 
-**📌 오전 개발 미팅에서 리포트 프로젝트 진행 현황을 공유하고, PPT 준비 후 멜번마켓 Wix 요소 제거 작업을 우선 진행하겠다고 보고했습니다.** 
-**📌 개발 선임의 요청에 따라 업무 우선순위를 PPT 발표 → 멜번마켓 마이그레이션 → 리포트 프로젝트 순으로 확정했습니다.** 
-**📌 오전에 당초 예정된 PPT를 완성한 뒤, 발표 일정 변경을 확인하고 **'Open-Source CMS vs. Web Builders Script: Comparative Analysis & Practical AI Integration'** 발표 자료를 수정했습니다.** 
-**📌 오후에는 멜번마켓 상품정보 마이그레이션 코드를 수정하고 바로 실행하여 퇴근 전까지 68% 진행도를 보였으며, 일단 중단한 뒤 다음 날 이어서 실행하여 마무리할 예정입니다.**
+**📌 오전 개발 미팅에서 리포트 프로젝트 진행 현황을 공유하고, PPT 준비 후 멜번마켓 Wix 요소 제거 작업을 우선 진행하겠다고 보고했습니다.**   
+**📌 개발 선임의 요청에 따라 업무 우선순위를 PPT 발표 → 멜번마켓 마이그레이션 → 리포트 프로젝트 순으로 확정했습니다.**   
+**📌 오전에 당초 예정된 PPT를 완성한 뒤, 발표 일정 변경을 확인하고 **'Open-Source CMS vs. Web Builders Script: Comparative Analysis & Practical AI Integration'** 발표 자료를 수정했습니다.**   
+**📌 오후에는 멜번마켓 상품정보 마이그레이션 코드를 수정하고 바로 실행하여 퇴근 전까지 68% 진행도를 보였으며, 일단 중단한 뒤 다음 날 이어서 실행하여 마무리할 예정입니다.**  
 
 ### 상세 활동
 
