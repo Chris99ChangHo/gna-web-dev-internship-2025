@@ -1,4 +1,4 @@
-# 📝 Week 26 Reflection (2025.06.30 ~ 2025.07.04)
+# 📝 Week 08 Reflection (2025.06.30 ~ 2025.07.04)
 
 ## ✅ Key Tasks This Week
 
