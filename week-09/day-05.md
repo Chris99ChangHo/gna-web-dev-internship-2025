@@ -42,7 +42,6 @@
 -   **Continue Report Project Development:** With the SER API and GA4 data fetching issues resolved, proceed with developing the dashboard and other functionalities within the Report project.
     
 -   **Prepare for Future Research Presentations:** Apply the presentation feedback to improve delivery and audience engagement for upcoming research presentations.
-    
 
 ----------
 
