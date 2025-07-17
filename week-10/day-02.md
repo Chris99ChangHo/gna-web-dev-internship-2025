@@ -1,3 +1,4 @@
+
 # 📅 Day 02 (2025-07-15, Tue)
 
 ## 🎓 What I Did Today
@@ -5,6 +6,7 @@
 **📌 Reported on completed data integration tests and ongoing PDF report development, emphasizing modern design and AI-generated covers for enhanced visual appeal.**   
 **📌 Detailed progress on dashboard improvements, including advanced SERanking data visualization, precise layout adjustments, and refined Google Analytics/Ads data presentation.**   
 **📌 Identified critical issues for tomorrow's focus, including a SERanking data loading error and persistent PDF report output problems with tables and charts.**  
+**📌 Participated in Google Ads Partner training, gaining valuable experience in digital marketing, SEO, and social media content creation.**  
 
 ### Detailed Activities
 
@@ -82,7 +84,8 @@
     -   **Improvements:** Successfully resolved the issue of the cover page being cut off.
         
     -   **Issues to Verify:** Discovered problems where tables overflowed or charts rendered unexpectedly/strangely when converted to PDF. These issues require further debugging and adjustments.
-        
+
+**3.  Google Ads Partner Training:** Participated in a special Google Ads Partner training session. Gained valuable insights and experience in digital marketing, SEO, and social media content creation strategies.        
 
 ## 🧠 Key Concepts Learned
 
@@ -91,7 +94,8 @@
 -   **Advanced CSS Layouting for Responsiveness:** Deepened understanding of CSS Flexbox and Grid models, particularly `items-stretch`, for achieving complex, visually aligned, and responsive layouts across different screen sizes and for fixed outputs like PDFs.
     
 -   **Iterative Refinement in UI/UX:** Learned that UI/UX development is an iterative process, involving continuous adjustments and testing to address visual inconsistencies (e.g., scrollbar removal for full display) and enhance user experience.
-    
+
+- **Broader Digital Marketing Landscape:** Gained a wider perspective on the interconnectedness of SEO, social media, and paid advertising within digital marketing through the Google Ads Partner training.
 
 ## 💡 Practical Trial-and-Error and Tips
 
@@ -99,8 +103,7 @@
     
 -   **Dynamic Height Alignment in CSS Flexbox/Grid:** Achieving perfectly horizontal alignment between two distinct sections (`seranking-chart-card` and `seranking-keyword-changes-card`) with potentially varying content heights was a challenge. **Tip:** Utilizing `display: flex` on the parent container and applying `align-items: stretch` (or equivalent grid properties) ensures child elements automatically adjust their height to match the tallest sibling, maintaining visual harmony.
     
--   **Debugging Integration Errors (SERanking Data Loading):** When facing generic "A fatal error occurred" messages, a systematic debugging approach is crucial. **Tip:** Always start by checking the browser's **Console** for specific error messages (type, file, line) and the **Network** tab for API call status codes and responses to pinpoint whether the issue is client-side data processing or a server-side API problem. Reviewing data validity (nulls, unexpected values) and adding defensive coding/exception handling in data processing functions are also key.
-    
+-   **Debugging Integration Errors (SERanking Data Loading):** When facing generic "A fatal error occurred" messages, a systematic debugging approach is crucial. **Tip:** Always start by checking the browser's **Console** for specific error messages (type, file, line) and the **Network** tab for API call status codes and responses to pinpoint whether the issue is client-side data processing or a server-side API problem. Reviewing data validity (nulls, unexpected values) and adding defensive coding/exception handling in data processing functions are also key.   
 
 ## 🔜 Next Steps
 
@@ -121,6 +124,7 @@
 **📌 현재 데이터 연동 테스트가 모두 완료되었음을 보고하고, 모던하고 세련된 디자인 및 AI 생성 커버를 활용하여 PDF 리포트 고도화 작업을 진행 중임을 알렸습니다.**   
 **📌 GA, SERanking, Google Ads 데이터 시각화 개선 등 대시보드 개선 사항을 상세히 구현하고 레이아웃을 정밀하게 조정했습니다.**   
 **📌 SERanking 데이터 로딩 오류 및 PDF 리포트 출력 문제(표, 차트 관련)와 같은 내일 중점적으로 해결해야 할 주요 이슈들을 파악했습니다.**  
+**📌 구글 애즈 파트너 교육에 참여하여 디지털 마케팅, SEO, 소셜 미디어 콘텐츠 제작 경험을 쌓았습니다.**  
 
 ### 상세 활동
 
@@ -196,7 +200,10 @@
     -   **개선된 사항:** 현재까지 커버 페이지가 잘리는 문제는 해결했습니다.
         
     -   **확인 필요 사항:** PDF 변환 시 표(table)가 페이지 밖으로 튀어나오거나(overflow), 차트가 예상과 다르게 (이상하게) 출력되는 문제가 발견되었습니다. 이 부분은 추가적인 디버깅 및 조정이 필요합니다.
-        
+      
+**3. 디지털 마케팅 교육 참여:**
+
+-   **구글 애즈 파트너 교육:** 특별 구글 애즈 파트너 교육 세션에 참여했습니다.  **디지털 마케팅, SEO, 소셜 미디어 콘텐츠 제작** 전략에 대한 귀중한 통찰력과 경험을 얻었습니다.
 
 ## 🧠 배운 핵심 개념
 
@@ -205,7 +212,8 @@
 -   **데이터 시각화를 위한 고급 CSS 레이아웃 최적화:** CSS Flexbox와 Grid 모델, 특히 `items-stretch` 속성에 대한 이해를 심화하여, 다양한 화면 크기와 PDF와 같은 고정된 출력물에서 복잡하고 시각적으로 정렬된 반응형 레이아웃을 구현하는 방법을 배웠습니다.
     
 -   **UI/UX의 반복적 개선:** UI/UX 개발은 지속적인 조정과 테스트를 통해 시각적 불일치(예: 전체 표시를 위한 스크롤바 제거)를 해결하고 사용자 경험을 향상시키는 반복적인 과정임을 깨달았습니다.
-    
+
+- **광범위한 디지털 마케팅 지형:** 구글 애즈 파트너 교육을 통해 디지털 마케팅 내에서 SEO, 소셜 미디어, 유료 광고의 상호 연결성에 대한 더 넓은 관점을 얻었습니다.    
 
 ## 💡 실전 시행착오 및 팁
 
@@ -213,8 +221,7 @@
     
 -   **CSS Flexbox/Grid를 활용한 동적 높이 정렬:** 서로 다른 내용 높이를 가질 수 있는 두 섹션(`seranking-chart-card`와 `seranking-keyword-changes-card`)을 완벽하게 수평으로 정렬하는 것이 도전적이었습니다. **팁:** 부모 컨테이너에 `display: flex`를 적용하고 `align-items: stretch`를 사용하면(또는 Grid의 동등한 속성) 자식 요소들이 가장 높은 요소의 높이에 자동으로 맞춰져 시각적 조화를 유지할 수 있습니다.
     
--   **통합 오류(SERanking 데이터 로딩) 디버깅:** "A fatal error occurred"와 같은 일반적인 오류 메시지에 직면했을 때 체계적인 디버깅 접근 방식이 중요합니다. **팁:** 항상 브라우저의 **콘솔**에서 정확한 오류 메시지(유형, 파일명, 라인 번호)를 확인하고, **네트워크** 탭에서 API 호출의 상태 코드와 응답 내용을 분석하여 클라이언트 측 데이터 처리 문제인지 서버 측 API 문제인지 파악하는 것이 중요합니다. 데이터 유효성(null 값, 예상치 못한 값)을 검토하고 데이터 처리 함수에 예외 처리 및 방어 코드를 추가하는 것도 핵심입니다.
-    
+-   **통합 오류(SERanking 데이터 로딩) 디버깅:** "A fatal error occurred"와 같은 일반적인 오류 메시지에 직면했을 때 체계적인 디버깅 접근 방식이 중요합니다. **팁:** 항상 브라우저의 **콘솔**에서 정확한 오류 메시지(유형, 파일명, 라인 번호)를 확인하고, **네트워크** 탭에서 API 호출의 상태 코드와 응답 내용을 분석하여 클라이언트 측 데이터 처리 문제인지 서버 측 API 문제인지 파악하는 것이 중요합니다. 데이터 유효성(null 값, 예상치 못한 값)을 검토하고 데이터 처리 함수에 예외 처리 및 방어 코드를 추가하는 것도 핵심입니다.    
 
 ## 🔜 이후 학습 방향
 
