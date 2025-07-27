@@ -62,7 +62,7 @@ Despite the unfinished PDF design work, I developed a detailed plan to ensure sm
 
 ----------
 
-# 📅 Day 05 (2025-07-25, 금)
+# 📅5일차(2025-07-25, 금)
 
 ## 🎓 오늘 한 일
 
