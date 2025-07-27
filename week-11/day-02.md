@@ -63,41 +63,7 @@
 
 -   Completed the presentation materials for the Shopify & Shopify Plus overview and practiced the presentation.
     
--   The presentation has been **postponed to tomorrow morning**.
-
-## 🧠 Key Concepts Learned
-
--   **Practical Deployment Hurdles on cPanel:** Gained extensive hands-on experience in the complexities of deploying a Python Flask application on cPanel, including managing file/folder structure, `requirements.txt`, and Python App configurations. Crucially, learned that **fundamental server infrastructure issues, such as a missing WSGI executable, can be outside the developer's immediate control.**
-    
--   **Deep Diagnosis and Recognition of Server-Side Limitations:** Systematically diagnosed and resolved many server-side errors, strengthening problem-solving skills. However, the experience highlighted that **core infrastructure deficiencies, like an incomplete WSGI environment for Flask app execution, cannot be solved by developer efforts alone.**
-    
--   **Necessity of External Support and Efficient Escalation:** Realized that when confronting fundamental server environment issues that cannot be self-resolved, **contacting the hosting provider with precise, detailed information, often through a senior developer, is the most efficient and necessary step** to progress.
-
-## 💡 Practical Trial-and-Error and Tips
-
--   **Prioritize WSGI Verification**: If your Flask app displays a generic server page (e.g., LiteSpeed's default), **immediately verify the presence and accessibility of the correct WSGI executable file for your Python version.** This is the **critical bottleneck**. If it's missing or inaccessible, **do not waste further time on self-troubleshooting; contact hosting support immediately, potentially via a senior developer, with detailed error logs.**
-    
--   **Disk Quota Management is Essential**: Regularly monitor disk usage. When encountering "Disk quota exceeded," promptly identify and delete large, unnecessary files/folders (especially old `venv` or `virtualenv` directories, backups, and crucially, empty the `.trash` bin).
-    
--   **Handling `Can't Acquire Lock` Errors**: If a "Can't acquire lock" error occurs, try fully deleting and recreating the app. Additionally, **manually locating and deleting any residual lock files** can be effective. If persistent, escalate to the administrator.
-    
--   **Effective Technical Communication**: When seeking external support (e.g., from hosting providers), always provide exact error messages, especially from `stderr.log`. This significantly speeds up diagnosis and resolution and is your **primary tool for effective communication.**
-
-## 🔜 Next Steps
-
--   **Collaborate with Hosting Provider on WSGI Issue**: **Actively communicate with the hosting provider regarding the missing WSGI executable file for the desired Python version (3.11/3.12) to resolve this core roadblock for the Flask app's operation.**
-    
--   **Complete Flask App Deployment & Test (Post-WSGI Resolution)**: Once the WSGI issue is resolved by the hosting provider, proceed with the final Flask app upload, registration, and thorough testing on the cPanel server.
-    
--   **Deliver Shopify/Shopify Plus Presentation**: Prepare for and deliver the Shopify & Shopify Plus presentation tomorrow morning.
-    
--   **Initiate Security Protocol Implementation**: Begin concrete steps for implementing security protocols, starting with research into login/administrator authentication for the Flask dashboard.
-    
--   **Finalize WordPress Integration Plan**: Based on successful deployment, finalize the detailed plan for integrating the Flask dashboard with the WordPress site, focusing on subdomain linking.
-
-----------
-
-# 📅 Day 02 (2025-07-22, 화)
+-   The presentation has been **postponed to tom차 (2025-07-22, 화)
 
 ## 🎓 오늘 한 일
 
