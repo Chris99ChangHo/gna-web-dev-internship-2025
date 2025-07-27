@@ -2,7 +2,9 @@
 
 ## 🎓 What I Did Today
 
-**📌 Participated in a morning development meeting to discuss the PDF generation feature's blocker due to Playwright installation issues, exploring alternatives based on the hosting provider's response.** **📌 Successfully implemented PDF generation using the `xhtml2pdf` library after various attempts with other libraries, addressing previously encountered problems.** **📌 Began implementing PDF preview and download functionalities with `xhtml2pdf`, noting several improvements but requiring further work.**
+**📌 Participated in a morning development meeting to discuss the PDF generation feature's blocker due to Playwright installation issues, exploring alternatives based on the hosting provider's response.**   
+**📌 Successfully implemented PDF generation using the `xhtml2pdf` library after various attempts with other libraries, addressing previously encountered problems.**   
+**📌 Began implementing PDF preview and download functionalities with `xhtml2pdf`, noting several improvements but requiring further work.**  
 
 ### Detailed Activities
 
