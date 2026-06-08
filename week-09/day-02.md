@@ -97,21 +97,21 @@
 
 ## 🔜 Next Steps
 
--   **Python + JS 대시보드 개발 집중:** 보고서 자동화를 위해 Python + JS 대시보드 개발에 집중하고, **특히 모든 고객사 ID를 추출하여 드롭다운에 연동하는 기능을 우선 구현**할 것입니다.
+-   **Focus on Python + JS Dashboard Development:** Focus on developing a Python + JS dashboard for report automation, **specifically prioritizing the implementation of extracting all client IDs and linking them to a dropdown**.
     
--   **GA4 데이터 연동 완성:** 모든 고객사의 GA4 속성 ID를 활용하여 GA4 데이터를 완벽하게 연동하고 대시보드에 시각화하는 작업을 진행할 것입니다.
+-   **Complete GA4 Data Integration:** Fully integrate and visualize GA4 data on the dashboard utilizing the GA4 property IDs of all clients.
     
--   **Google Ads API (조회) 통합 시작:** Google Ads API를 통해 캠페인 실적 데이터를 자동으로 가져와 대시보드에 연동하는 작업을 시작할 것입니다. (궁극적인 API 자동화 목표에 맞춰)
+-   **Initiate Google Ads API (Read) Integration:** Start automatically fetching campaign performance data via the Google Ads API and integrating it into the dashboard. (Aligning with the ultimate goal of API automation)
     
--   **Google Ads MCC 계정 중앙화 제안 구체화:** 향후 효율적인 광고 계정 관리를 위해 Google Ads MCC 계정 중앙화 방안에 대한 제안 내용을 구체화할 것입니다.
+-   **Flesh Out Google Ads MCC Centralization Proposal:** Detail the proposal for centralizing Google Ads MCC accounts for efficient ad account management in the future.
     
--   **대시보드 프로젝트 디버깅 계속:** 대시보드 프로젝트의 500 Internal Server Error, 특히 SERanking API 통합에 집중하여 계속 디버깅할 것입니다.
+-   **Continue Dashboard Project Debugging:** Continue debugging the dashboard project's 500 Internal Server Error, focusing specifically on the SERanking API integration.
     
--   **멜번마켓 마이그레이션 피드백 준비:** 마이그레이션된 Shopify 상품 데이터에 대한 팀의 검토에서 발생할 수 있는 모든 문제를 기다리고 해결할 준비를 할 것입니다.
+-   **Prepare for Melbourne Market Migration Feedback:** Stand by to address and resolve any issues that may arise during the team's review of the migrated Shopify product data.
     
--   **클라이언트 원페이지 웹사이트 최종 마무리:** "기사식당" 웹사이트에 대한 남은 피드백을 반영하고 최종 배포를 준비할 것입니다.
+-   **Finalize Client One-Page Website:** Apply the remaining feedback for the "Gisa Restaurant" website and prepare for the final deployment.
     
--   **AI 보안 위협 리서치 및 PPT 준비 심화:** 2025년 7월 10일(목) 발표를 목표로 CPanel/WHM 서버 보안 영향을 중심으로 "AI를 활용한 해킹, 스캠, 스팸의 진화 — 그리고 서버 보안에 미치는 영향"에 대한 심층 리서치 및 발표 자료 준비를 계속할 것입니다.
+-   **Deepen AI Security Threat Research & PPT Preparation:** Continue in-depth research and presentation material preparation on "The Evolution of AI-driven Hacking, Scams, and Spam — and Their Impact on Server Security," focusing on CPanel/WHM server security impacts, aiming for a presentation on Thursday, July 10, 2025.
 
 ----------
 
